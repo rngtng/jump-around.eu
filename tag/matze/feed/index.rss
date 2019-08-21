@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
-xmlns:georss="http://www.georss.org/georss" >
+	xmlns:georss="http://www.georss.org/georss" >
 
 <channel>
 	<title>matze &#8211; Jump-Around.eu</title>
@@ -21,10 +19,9 @@ xmlns:georss="http://www.georss.org/georss" >
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.2.2</generator>
-<site xmlns="com-wordpress:feed-additions:1">6142598</site>	<item>
+	<item>
 		<title>Top of Crimera</title>
 		<link>http://www.jump-around.eu/2010/05/13/top-of-crimera/</link>
-				<comments>http://www.jump-around.eu/2010/05/13/top-of-crimera/#respond</comments>
 				<pubDate>Thu, 13 May 2010 14:30:17 +0000</pubDate>
 		<dc:creator><![CDATA[tobi]]></dc:creator>
 				<category><![CDATA[Jumps]]></category>
@@ -37,13 +34,10 @@ xmlns:georss="http://www.georss.org/georss" >
 				<description><![CDATA[Crimera, it&#8217;s so beautiful!]]></description>
 								<content:encoded><![CDATA[<p>Crimera, it&#8217;s so beautiful!</p>
 ]]></content:encoded>
-							<wfw:commentRss>http://www.jump-around.eu/2010/05/13/top-of-crimera/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-						<post-id xmlns="com-wordpress:feed-additions:1">438</post-id>	</item>
+										</item>
 		<item>
 		<title>Black Sea &#8211; here we are!</title>
 		<link>http://www.jump-around.eu/2010/05/12/black-sea-black-sea-2/</link>
-				<comments>http://www.jump-around.eu/2010/05/12/black-sea-black-sea-2/#respond</comments>
 				<pubDate>Wed, 12 May 2010 14:31:25 +0000</pubDate>
 		<dc:creator><![CDATA[tobi]]></dc:creator>
 				<category><![CDATA[Jumps]]></category>
@@ -58,8 +52,6 @@ xmlns:georss="http://www.georss.org/georss" >
 				<description><![CDATA[After quick dip into the sea, we jumped up high!]]></description>
 								<content:encoded><![CDATA[<p>After quick dip into the sea, we jumped up high!</p>
 ]]></content:encoded>
-							<wfw:commentRss>http://www.jump-around.eu/2010/05/12/black-sea-black-sea-2/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-						<georss:point>44.6530228 34.3762207</georss:point><post-id xmlns="com-wordpress:feed-additions:1">434</post-id>	</item>
+									<georss:point>44.6530228 34.3762207</georss:point>	</item>
 	</channel>
 </rss>

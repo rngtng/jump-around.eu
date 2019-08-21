@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
-xmlns:georss="http://www.georss.org/georss" >
+	xmlns:georss="http://www.georss.org/georss" >
 
 <channel>
 	<title>Miranda &#8211; Jump-Around.eu</title>
@@ -21,10 +19,9 @@ xmlns:georss="http://www.georss.org/georss" >
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.2.2</generator>
-<site xmlns="com-wordpress:feed-additions:1">6142598</site>	<item>
+	<item>
 		<title>Miranda Wedding</title>
 		<link>http://www.jump-around.eu/2013/02/03/miranda-wedding/</link>
-				<comments>http://www.jump-around.eu/2013/02/03/miranda-wedding/#respond</comments>
 				<pubDate>Sun, 03 Feb 2013 00:22:29 +0000</pubDate>
 		<dc:creator><![CDATA[tobi]]></dc:creator>
 				<category><![CDATA[BestOf]]></category>
@@ -34,13 +31,10 @@ xmlns:georss="http://www.georss.org/georss" >
 		<guid isPermaLink="false">http://www.jump-around.eu/2023/02/03/miranda-wedding/</guid>
 				<description><![CDATA[]]></description>
 								<content:encoded><![CDATA[]]></content:encoded>
-							<wfw:commentRss>http://www.jump-around.eu/2013/02/03/miranda-wedding/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-						<post-id xmlns="com-wordpress:feed-additions:1">477</post-id>	</item>
+										</item>
 		<item>
 		<title>Berlin here we are!</title>
 		<link>http://www.jump-around.eu/2007/12/30/berlin-here-we-are/</link>
-				<comments>http://www.jump-around.eu/2007/12/30/berlin-here-we-are/#respond</comments>
 				<pubDate>Sun, 30 Dec 2007 16:16:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[Jumps]]></category>
@@ -52,13 +46,10 @@ xmlns:georss="http://www.georss.org/georss" >
 				<description><![CDATA[A short visit to the Capital Berlin before the year says goodbye. We couldn&#8217;t miss seeing all favorites sights and places and of course not to jump..]]></description>
 								<content:encoded><![CDATA[<p>A short visit to the Capital Berlin before the year says goodbye. We couldn&#8217;t miss seeing all favorites sights and places and of course not to jump..</p>
 ]]></content:encoded>
-							<wfw:commentRss>http://www.jump-around.eu/2007/12/30/berlin-here-we-are/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-						<georss:point>52.5176811 13.3796310</georss:point><post-id xmlns="com-wordpress:feed-additions:1">115</post-id>	</item>
+									<georss:point>52.5176811 13.3796310</georss:point>	</item>
 		<item>
 		<title>Nürnberg &#8211; here we are (again)</title>
 		<link>http://www.jump-around.eu/2007/12/23/nurnberg-here-we-are-again/</link>
-				<comments>http://www.jump-around.eu/2007/12/23/nurnberg-here-we-are-again/#respond</comments>
 				<pubDate>Sun, 23 Dec 2007 16:59:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[Jumps]]></category>
@@ -72,8 +63,6 @@ xmlns:georss="http://www.georss.org/georss" >
 				<description><![CDATA[Like last year I&#8217;m back in Nürnberg to visit Christoph and his Family again. This time I took Miranda with me and Christoph has his spanish friends around. We get a small citytour and enjoy the cold icy wintertime.]]></description>
 								<content:encoded><![CDATA[<p>Like last year I&#8217;m back in Nürnberg to visit Christoph and his Family again. This time I took Miranda with me and Christoph has his spanish friends around. We get a small citytour and enjoy the cold icy wintertime.  </p>
 ]]></content:encoded>
-							<wfw:commentRss>http://www.jump-around.eu/2007/12/23/nurnberg-here-we-are-again/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-						<georss:point>49.4587517 11.0783377</georss:point><post-id xmlns="com-wordpress:feed-additions:1">114</post-id>	</item>
+									<georss:point>49.4587517 11.0783377</georss:point>	</item>
 	</channel>
 </rss>

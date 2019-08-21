@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
-xmlns:georss="http://www.georss.org/georss" >
+	xmlns:georss="http://www.georss.org/georss" >
 
 <channel>
 	<title>BestOf &#8211; Jump-Around.eu</title>
@@ -21,10 +19,9 @@ xmlns:georss="http://www.georss.org/georss" >
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.2.2</generator>
-<site xmlns="com-wordpress:feed-additions:1">6142598</site>	<item>
+	<item>
 		<title>Miranda Wedding</title>
 		<link>http://www.jump-around.eu/2013/02/03/miranda-wedding/</link>
-				<comments>http://www.jump-around.eu/2013/02/03/miranda-wedding/#respond</comments>
 				<pubDate>Sun, 03 Feb 2013 00:22:29 +0000</pubDate>
 		<dc:creator><![CDATA[tobi]]></dc:creator>
 				<category><![CDATA[BestOf]]></category>
@@ -34,13 +31,10 @@ xmlns:georss="http://www.georss.org/georss" >
 		<guid isPermaLink="false">http://www.jump-around.eu/2023/02/03/miranda-wedding/</guid>
 				<description><![CDATA[]]></description>
 								<content:encoded><![CDATA[]]></content:encoded>
-							<wfw:commentRss>http://www.jump-around.eu/2013/02/03/miranda-wedding/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-						<post-id xmlns="com-wordpress:feed-additions:1">477</post-id>	</item>
+										</item>
 		<item>
 		<title>Acropolis and me</title>
 		<link>http://www.jump-around.eu/2012/06/05/acropolis-and-me/</link>
-				<comments>http://www.jump-around.eu/2012/06/05/acropolis-and-me/#respond</comments>
 				<pubDate>Tue, 05 Jun 2012 12:56:26 +0000</pubDate>
 		<dc:creator><![CDATA[tobi]]></dc:creator>
 				<category><![CDATA[BestOf]]></category>
@@ -49,13 +43,10 @@ xmlns:georss="http://www.georss.org/georss" >
 		<guid isPermaLink="false">http://www.jump-around.eu/2022/06/05/acropolis-and-me/</guid>
 				<description><![CDATA[]]></description>
 								<content:encoded><![CDATA[]]></content:encoded>
-							<wfw:commentRss>http://www.jump-around.eu/2012/06/05/acropolis-and-me/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-						<post-id xmlns="com-wordpress:feed-additions:1">478</post-id>	</item>
+										</item>
 		<item>
 		<title>End of Oder BikeTour 2012</title>
 		<link>http://www.jump-around.eu/2012/05/29/end-of-oder-biketour-2012/</link>
-				<comments>http://www.jump-around.eu/2012/05/29/end-of-oder-biketour-2012/#respond</comments>
 				<pubDate>Tue, 29 May 2012 13:03:20 +0000</pubDate>
 		<dc:creator><![CDATA[tobi]]></dc:creator>
 				<category><![CDATA[BestOf]]></category>
@@ -66,13 +57,10 @@ xmlns:georss="http://www.georss.org/georss" >
 		<guid isPermaLink="false">http://www.jump-around.eu/2022/05/29/end-of-oder-biketour-2012/</guid>
 				<description><![CDATA[]]></description>
 								<content:encoded><![CDATA[]]></content:encoded>
-							<wfw:commentRss>http://www.jump-around.eu/2012/05/29/end-of-oder-biketour-2012/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-						<post-id xmlns="com-wordpress:feed-additions:1">474</post-id>	</item>
+										</item>
 		<item>
 		<title>Top of Teide</title>
 		<link>http://www.jump-around.eu/2012/03/01/top-of-teide/</link>
-				<comments>http://www.jump-around.eu/2012/03/01/top-of-teide/#respond</comments>
 				<pubDate>Thu, 01 Mar 2012 14:21:16 +0000</pubDate>
 		<dc:creator><![CDATA[tobi]]></dc:creator>
 				<category><![CDATA[BestOf]]></category>
@@ -82,13 +70,10 @@ xmlns:georss="http://www.georss.org/georss" >
 		<guid isPermaLink="false">http://www.jump-around.eu/2022/03/01/top-of-teide/</guid>
 				<description><![CDATA[]]></description>
 								<content:encoded><![CDATA[]]></content:encoded>
-							<wfw:commentRss>http://www.jump-around.eu/2012/03/01/top-of-teide/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-						<post-id xmlns="com-wordpress:feed-additions:1">479</post-id>	</item>
+										</item>
 		<item>
 		<title>Greek Jumping</title>
 		<link>http://www.jump-around.eu/2010/12/10/greek-jumping/</link>
-				<comments>http://www.jump-around.eu/2010/12/10/greek-jumping/#respond</comments>
 				<pubDate>Fri, 10 Dec 2010 01:12:45 +0000</pubDate>
 		<dc:creator><![CDATA[tobi]]></dc:creator>
 				<category><![CDATA[BestOf]]></category>
@@ -101,13 +86,10 @@ xmlns:georss="http://www.georss.org/georss" >
 		<guid isPermaLink="false">http://www.jump-around.eu/2020/12/10/greek-jumping/</guid>
 				<description><![CDATA[]]></description>
 								<content:encoded><![CDATA[]]></content:encoded>
-							<wfw:commentRss>http://www.jump-around.eu/2010/12/10/greek-jumping/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-						<post-id xmlns="com-wordpress:feed-additions:1">460</post-id>	</item>
+										</item>
 		<item>
 		<title>Åland Sunset</title>
 		<link>http://www.jump-around.eu/2010/07/26/aland-sunset/</link>
-				<comments>http://www.jump-around.eu/2010/07/26/aland-sunset/#respond</comments>
 				<pubDate>Mon, 26 Jul 2010 19:48:27 +0000</pubDate>
 		<dc:creator><![CDATA[tobi]]></dc:creator>
 				<category><![CDATA[BestOf]]></category>
@@ -122,13 +104,10 @@ xmlns:georss="http://www.georss.org/georss" >
 		<guid isPermaLink="false">http://www.jump-around.eu/2020/07/26/aland-sunset/</guid>
 				<description><![CDATA[]]></description>
 								<content:encoded><![CDATA[]]></content:encoded>
-							<wfw:commentRss>http://www.jump-around.eu/2010/07/26/aland-sunset/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-						<georss:point>60.3357849 19.7547913</georss:point><post-id xmlns="com-wordpress:feed-additions:1">461</post-id>	</item>
+									<georss:point>60.3357849 19.7547913</georss:point>	</item>
 		<item>
 		<title>Pinakothek der Moderne in Munich</title>
 		<link>http://www.jump-around.eu/2010/03/14/pinakothek-der-moderne-jump/</link>
-				<comments>http://www.jump-around.eu/2010/03/14/pinakothek-der-moderne-jump/#respond</comments>
 				<pubDate>Sun, 14 Mar 2010 15:34:00 +0000</pubDate>
 		<dc:creator><![CDATA[tobi]]></dc:creator>
 				<category><![CDATA[BestOf]]></category>
@@ -141,13 +120,10 @@ xmlns:georss="http://www.georss.org/georss" >
 				<description><![CDATA[Jumping in Front of (green) Art &#8211; Like other people like to to 😉]]></description>
 								<content:encoded><![CDATA[<p>Jumping in Front of (green) Art &#8211;<a href="http://jumpinginartmuseums.blogspot.com/2010/06/claes-oldenburg-in-germany-jumping.html"> Like other people like to to</a> <img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 ]]></content:encoded>
-							<wfw:commentRss>http://www.jump-around.eu/2010/03/14/pinakothek-der-moderne-jump/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-						<georss:point>48.1468735 11.5724649</georss:point><post-id xmlns="com-wordpress:feed-additions:1">400</post-id>	</item>
+									<georss:point>48.1468735 11.5724649</georss:point>	</item>
 		<item>
 		<title>Elbstrand BBQ &#8211; Can&#8217;t stop Joga</title>
 		<link>http://www.jump-around.eu/2009/05/10/elbstrand-bbq-cant-stop-joga/</link>
-				<comments>http://www.jump-around.eu/2009/05/10/elbstrand-bbq-cant-stop-joga/#respond</comments>
 				<pubDate>Sun, 10 May 2009 18:42:09 +0000</pubDate>
 		<dc:creator><![CDATA[tobi]]></dc:creator>
 				<category><![CDATA[BestOf]]></category>
@@ -161,13 +137,10 @@ xmlns:georss="http://www.georss.org/georss" >
 								<content:encoded><![CDATA[<p>Livia invited to her birthday party at the Elbstrand in Hamburg. It was a gorgeous day and perfect for a jump <img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 <p>[picture by Fabian]</p>
 ]]></content:encoded>
-							<wfw:commentRss>http://www.jump-around.eu/2009/05/10/elbstrand-bbq-cant-stop-joga/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-						<post-id xmlns="com-wordpress:feed-additions:1">406</post-id>	</item>
+										</item>
 		<item>
 		<title>Chris Jump in Front of Art</title>
 		<link>http://www.jump-around.eu/2009/02/28/chris-jump-in-front-of-art/</link>
-				<comments>http://www.jump-around.eu/2009/02/28/chris-jump-in-front-of-art/#respond</comments>
 				<pubDate>Sat, 28 Feb 2009 16:31:23 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[BestOf]]></category>
@@ -180,13 +153,10 @@ xmlns:georss="http://www.georss.org/georss" >
 				<description><![CDATA[Chris and Melanie finally came over to visit me in Hamburg. Of course we had to visit the Kunsthalle, and of course we had to jump!]]></description>
 								<content:encoded><![CDATA[<p>Chris and Melanie finally came over to visit me in Hamburg. Of course we had to visit the Kunsthalle, and of course we had to jump!</p>
 ]]></content:encoded>
-							<wfw:commentRss>http://www.jump-around.eu/2009/02/28/chris-jump-in-front-of-art/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-						<georss:point>53.5550003 10.0024004</georss:point><post-id xmlns="com-wordpress:feed-additions:1">371</post-id>	</item>
+									<georss:point>53.5550003 10.0024004</georss:point>	</item>
 		<item>
 		<title>Chris&#8217; Land&#8217;s End Jump</title>
 		<link>http://www.jump-around.eu/2007/10/13/chris-lands-end-jump/</link>
-				<comments>http://www.jump-around.eu/2007/10/13/chris-lands-end-jump/#respond</comments>
 				<pubDate>Sat, 13 Oct 2007 11:00:17 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[BestOf]]></category>
@@ -199,8 +169,6 @@ xmlns:georss="http://www.georss.org/georss" >
 				<description><![CDATA[As [qype id=&#8221;181653&#8243;] is such a fantastic place at the very west of Cornwall, we decided to dedicate a jumping series to each of us. Please notice Chris&#8217; incredible style and remarkable height 🙂]]></description>
 								<content:encoded><![CDATA[<p>As [qype id=&#8221;181653&#8243;] is such a fantastic place at the very west of Cornwall, we decided to dedicate a jumping series to each of us. Please notice Chris&#8217; incredible style and remarkable height <img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 ]]></content:encoded>
-							<wfw:commentRss>http://www.jump-around.eu/2007/10/13/chris-lands-end-jump/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-						<georss:point>50.0690002 -5.7170100</georss:point><post-id xmlns="com-wordpress:feed-additions:1">220</post-id>	</item>
+									<georss:point>50.0690002 -5.7170100</georss:point>	</item>
 	</channel>
 </rss>

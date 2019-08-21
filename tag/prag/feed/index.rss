@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
-xmlns:georss="http://www.georss.org/georss" >
+	xmlns:georss="http://www.georss.org/georss" >
 
 <channel>
 	<title>Prag &#8211; Jump-Around.eu</title>
@@ -21,10 +19,9 @@ xmlns:georss="http://www.georss.org/georss" >
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.2.2</generator>
-<site xmlns="com-wordpress:feed-additions:1">6142598</site>	<item>
+	<item>
 		<title>Praha Jump</title>
 		<link>http://www.jump-around.eu/2008/03/30/praha-jump/</link>
-				<comments>http://www.jump-around.eu/2008/03/30/praha-jump/#comments</comments>
 				<pubDate>Sun, 30 Mar 2008 12:08:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[Jumps]]></category>
@@ -35,8 +32,6 @@ xmlns:georss="http://www.georss.org/georss" >
 				<description><![CDATA[Together with some colleages I went to Prague to attend the EuRuCo &#8217;08. Although having had not only onebeer I was still able to jump 🙂]]></description>
 								<content:encoded><![CDATA[<p>Together with some colleages I went to Prague to attend the EuRuCo &#8217;08. Although having had not only one<br />beer I was still able to jump <img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 ]]></content:encoded>
-							<wfw:commentRss>http://www.jump-around.eu/2008/03/30/praha-jump/feed/</wfw:commentRss>
-		<slash:comments>1</slash:comments>
-						<georss:point>50.0809364 14.4030762</georss:point><post-id xmlns="com-wordpress:feed-additions:1">116</post-id>	</item>
+									<georss:point>50.0809364 14.4030762</georss:point>	</item>
 	</channel>
 </rss>

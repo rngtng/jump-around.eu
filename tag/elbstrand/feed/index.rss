@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
-xmlns:georss="http://www.georss.org/georss" >
+	xmlns:georss="http://www.georss.org/georss" >
 
 <channel>
 	<title>elbstrand &#8211; Jump-Around.eu</title>
@@ -21,10 +19,9 @@ xmlns:georss="http://www.georss.org/georss" >
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.2.2</generator>
-<site xmlns="com-wordpress:feed-additions:1">6142598</site>	<item>
+	<item>
 		<title>Elbstrand BBQ &#8211; Can&#8217;t stop Joga</title>
 		<link>http://www.jump-around.eu/2009/05/10/elbstrand-bbq-cant-stop-joga/</link>
-				<comments>http://www.jump-around.eu/2009/05/10/elbstrand-bbq-cant-stop-joga/#respond</comments>
 				<pubDate>Sun, 10 May 2009 18:42:09 +0000</pubDate>
 		<dc:creator><![CDATA[tobi]]></dc:creator>
 				<category><![CDATA[BestOf]]></category>
@@ -38,8 +35,6 @@ xmlns:georss="http://www.georss.org/georss" >
 								<content:encoded><![CDATA[<p>Livia invited to her birthday party at the Elbstrand in Hamburg. It was a gorgeous day and perfect for a jump <img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 <p>[picture by Fabian]</p>
 ]]></content:encoded>
-							<wfw:commentRss>http://www.jump-around.eu/2009/05/10/elbstrand-bbq-cant-stop-joga/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-						<post-id xmlns="com-wordpress:feed-additions:1">406</post-id>	</item>
+										</item>
 	</channel>
 </rss>

@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
-xmlns:georss="http://www.georss.org/georss" >
+	xmlns:georss="http://www.georss.org/georss" >
 
 <channel>
 	<title>fabian &#8211; Jump-Around.eu</title>
@@ -21,10 +19,9 @@ xmlns:georss="http://www.georss.org/georss" >
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.2.2</generator>
-<site xmlns="com-wordpress:feed-additions:1">6142598</site>	<item>
+	<item>
 		<title>Herräng Beach</title>
 		<link>http://www.jump-around.eu/2009/07/20/herrang-beach-dsc_1696/</link>
-				<comments>http://www.jump-around.eu/2009/07/20/herrang-beach-dsc_1696/#respond</comments>
 				<pubDate>Mon, 20 Jul 2009 18:19:58 +0000</pubDate>
 		<dc:creator><![CDATA[tobi]]></dc:creator>
 				<category><![CDATA[Jumps]]></category>
@@ -38,8 +35,6 @@ xmlns:georss="http://www.georss.org/georss" >
 				<description><![CDATA[We had big fun at the beach of Herräng,sweden]]></description>
 								<content:encoded><![CDATA[<p>We had big fun at the beach of Herräng,sweden </p>
 ]]></content:encoded>
-							<wfw:commentRss>http://www.jump-around.eu/2009/07/20/herrang-beach-dsc_1696/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-						<post-id xmlns="com-wordpress:feed-additions:1">433</post-id>	</item>
+										</item>
 	</channel>
 </rss>

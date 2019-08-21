@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
-xmlns:georss="http://www.georss.org/georss" >
+	xmlns:georss="http://www.georss.org/georss" >
 
 <channel>
 	<title>eiger &#8211; Jump-Around.eu</title>
@@ -21,10 +19,9 @@ xmlns:georss="http://www.georss.org/georss" >
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.2.2</generator>
-<site xmlns="com-wordpress:feed-additions:1">6142598</site>	<item>
+	<item>
 		<title>Eigernordwand</title>
 		<link>http://www.jump-around.eu/2009/01/01/eiger/</link>
-				<comments>http://www.jump-around.eu/2009/01/01/eiger/#respond</comments>
 				<pubDate>Thu, 01 Jan 2009 13:25:24 +0000</pubDate>
 		<dc:creator><![CDATA[tobi]]></dc:creator>
 				<category><![CDATA[Jumps]]></category>
@@ -39,8 +36,6 @@ xmlns:georss="http://www.georss.org/georss" >
 				<description><![CDATA[During our Winterholiday at the Eigernordwand in Switzerland]]></description>
 								<content:encoded><![CDATA[<p>During our Winterholiday at the Eigernordwand in Switzerland</p>
 ]]></content:encoded>
-							<wfw:commentRss>http://www.jump-around.eu/2009/01/01/eiger/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-						<post-id xmlns="com-wordpress:feed-additions:1">411</post-id>	</item>
+										</item>
 	</channel>
 </rss>

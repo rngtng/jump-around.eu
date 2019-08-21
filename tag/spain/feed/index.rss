@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
-xmlns:georss="http://www.georss.org/georss" >
+	xmlns:georss="http://www.georss.org/georss" >
 
 <channel>
 	<title>spain &#8211; Jump-Around.eu</title>
@@ -21,10 +19,9 @@ xmlns:georss="http://www.georss.org/georss" >
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.2.2</generator>
-<site xmlns="com-wordpress:feed-additions:1">6142598</site>	<item>
+	<item>
 		<title>Uaps!</title>
 		<link>http://www.jump-around.eu/2007/03/28/uaps/</link>
-				<comments>http://www.jump-around.eu/2007/03/28/uaps/#respond</comments>
 				<pubDate>Wed, 28 Mar 2007 16:54:33 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[Jumps]]></category>
@@ -37,13 +34,10 @@ xmlns:georss="http://www.georss.org/georss" >
 		<guid isPermaLink="false">http://www.jump-around.eu/2007/03/28/uaps/</guid>
 				<description><![CDATA[]]></description>
 								<content:encoded><![CDATA[]]></content:encoded>
-							<wfw:commentRss>http://www.jump-around.eu/2007/03/28/uaps/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-						<georss:point>40.4204216 -3.7031219</georss:point><post-id xmlns="com-wordpress:feed-additions:1">155</post-id>	</item>
+									<georss:point>40.4204216 -3.7031219</georss:point>	</item>
 		<item>
 		<title>La polla de Barcelona</title>
 		<link>http://www.jump-around.eu/2007/03/19/polla-de-barca/</link>
-				<comments>http://www.jump-around.eu/2007/03/19/polla-de-barca/#respond</comments>
 				<pubDate>Mon, 19 Mar 2007 12:41:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[Jumps]]></category>
@@ -55,13 +49,10 @@ xmlns:georss="http://www.georss.org/georss" >
 				<description><![CDATA[Jeah, Tobi even started jumping in front of the big p*** of Barcelona 🙂]]></description>
 								<content:encoded><![CDATA[<p>Jeah, Tobi even started jumping in front of the big p*** of Barcelona <img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 ]]></content:encoded>
-							<wfw:commentRss>http://www.jump-around.eu/2007/03/19/polla-de-barca/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-						<georss:point>41.4037094 2.1904311</georss:point><post-id xmlns="com-wordpress:feed-additions:1">153</post-id>	</item>
+									<georss:point>41.4037094 2.1904311</georss:point>	</item>
 		<item>
 		<title>Barcelona Palace</title>
 		<link>http://www.jump-around.eu/2007/03/18/love2barca/</link>
-				<comments>http://www.jump-around.eu/2007/03/18/love2barca/#respond</comments>
 				<pubDate>Sun, 18 Mar 2007 17:22:56 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[Jumps]]></category>
@@ -76,8 +67,6 @@ xmlns:georss="http://www.georss.org/georss" >
 				<description><![CDATA[Back to the roots: Hey Cecile, it&#8217;s been so cool to meet you again! Whenever the founding team met again it was time for a jump! Hope this will go on like that&#8230;]]></description>
 								<content:encoded><![CDATA[<p>Back to the roots: Hey Cecile, it&#8217;s been so cool to meet you again! Whenever the founding team met again it was time for a jump! Hope this will go on like that&#8230;</p>
 ]]></content:encoded>
-							<wfw:commentRss>http://www.jump-around.eu/2007/03/18/love2barca/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-						<georss:point>41.3715286 2.1517100</georss:point><post-id xmlns="com-wordpress:feed-additions:1">157</post-id>	</item>
+									<georss:point>41.3715286 2.1517100</georss:point>	</item>
 	</channel>
 </rss>

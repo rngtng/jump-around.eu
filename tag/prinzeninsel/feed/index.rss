@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
-xmlns:georss="http://www.georss.org/georss" >
+	xmlns:georss="http://www.georss.org/georss" >
 
 <channel>
 	<title>Prinzeninsel &#8211; Jump-Around.eu</title>
@@ -21,10 +19,9 @@ xmlns:georss="http://www.georss.org/georss" >
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.2.2</generator>
-<site xmlns="com-wordpress:feed-additions:1">6142598</site>	<item>
+	<item>
 		<title>Daniela &#038; Agnes Jump</title>
 		<link>http://www.jump-around.eu/2009/04/12/daniela-agnes-jump/</link>
-				<comments>http://www.jump-around.eu/2009/04/12/daniela-agnes-jump/#respond</comments>
 				<pubDate>Sun, 12 Apr 2009 13:41:27 +0000</pubDate>
 		<dc:creator><![CDATA[tobi]]></dc:creator>
 				<category><![CDATA[Jumps]]></category>
@@ -37,8 +34,6 @@ xmlns:georss="http://www.georss.org/georss" >
 				<description><![CDATA[Stopping by at wonderful beach of the Prinzeninsel, the girls couldn&#8217;t resists to jump..]]></description>
 								<content:encoded><![CDATA[<p>Stopping by at wonderful beach of the Prinzeninsel, the girls couldn&#8217;t resists to jump..</p>
 ]]></content:encoded>
-							<wfw:commentRss>http://www.jump-around.eu/2009/04/12/daniela-agnes-jump/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-						<post-id xmlns="com-wordpress:feed-additions:1">408</post-id>	</item>
+										</item>
 	</channel>
 </rss>

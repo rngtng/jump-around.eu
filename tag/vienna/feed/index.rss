@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
-xmlns:georss="http://www.georss.org/georss" >
+	xmlns:georss="http://www.georss.org/georss" >
 
 <channel>
 	<title>vienna &#8211; Jump-Around.eu</title>
@@ -21,10 +19,9 @@ xmlns:georss="http://www.georss.org/georss" >
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.2.2</generator>
-<site xmlns="com-wordpress:feed-additions:1">6142598</site>	<item>
+	<item>
 		<title>the sky is the limit&#8230;</title>
 		<link>http://www.jump-around.eu/2009/09/19/the-sky-is-the-limit/</link>
-				<comments>http://www.jump-around.eu/2009/09/19/the-sky-is-the-limit/#respond</comments>
 				<pubDate>Sat, 19 Sep 2009 08:36:51 +0000</pubDate>
 		<dc:creator><![CDATA[tobi]]></dc:creator>
 				<category><![CDATA[Jumps]]></category>
@@ -35,13 +32,10 @@ xmlns:georss="http://www.georss.org/georss" >
 				<description><![CDATA[Georg jump high in Vienna! Awsm!]]></description>
 								<content:encoded><![CDATA[<p>Georg jump high in Vienna! Awsm! </p>
 ]]></content:encoded>
-							<wfw:commentRss>http://www.jump-around.eu/2009/09/19/the-sky-is-the-limit/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-						<post-id xmlns="com-wordpress:feed-additions:1">440</post-id>	</item>
+										</item>
 		<item>
 		<title>Train is Comming</title>
 		<link>http://www.jump-around.eu/2006/09/07/train-is-comming/</link>
-				<comments>http://www.jump-around.eu/2006/09/07/train-is-comming/#respond</comments>
 				<pubDate>Thu, 07 Sep 2006 09:20:34 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[Jumps]]></category>
@@ -52,8 +46,6 @@ xmlns:georss="http://www.georss.org/georss" >
 				<description><![CDATA[Short before heading from Vienna to Zurich I couldn&#8217;t resist to jump this city 🙂]]></description>
 								<content:encoded><![CDATA[<p>Short before heading from Vienna to Zurich I couldn&#8217;t resist to jump this city <img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 ]]></content:encoded>
-							<wfw:commentRss>http://www.jump-around.eu/2006/09/07/train-is-comming/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-						<georss:point>48.2297325 16.3865795</georss:point><post-id xmlns="com-wordpress:feed-additions:1">104</post-id>	</item>
+									<georss:point>48.2297325 16.3865795</georss:point>	</item>
 	</channel>
 </rss>

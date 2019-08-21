@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
-xmlns:georss="http://www.georss.org/georss" >
+	xmlns:georss="http://www.georss.org/georss" >
 
 <channel>
 	<title>TobiasK &#8211; Jump-Around.eu</title>
@@ -21,10 +19,9 @@ xmlns:georss="http://www.georss.org/georss" >
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.2.2</generator>
-<site xmlns="com-wordpress:feed-additions:1">6142598</site>	<item>
+	<item>
 		<title>Rocking in Oaxaca</title>
 		<link>http://www.jump-around.eu/2009/02/02/rocking-in-oaxaca/</link>
-				<comments>http://www.jump-around.eu/2009/02/02/rocking-in-oaxaca/#respond</comments>
 				<pubDate>Mon, 02 Feb 2009 15:00:50 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[Jumps]]></category>
@@ -37,13 +34,10 @@ xmlns:georss="http://www.georss.org/georss" >
 				<description><![CDATA[Here we go again: The same gang Tobi, Daniel and Andreas up in the air in Oaxaca. I guess this picture is dedicated to Bruce Lee and Jacie Jan.]]></description>
 								<content:encoded><![CDATA[<p>Here we go again: The same gang <a title="Tobi" href="http://eltobse.blogspot.com/">Tobi</a>, Daniel and Andreas up in the air in Oaxaca. I guess this picture is dedicated to Bruce Lee and Jacie Jan.</p>
 ]]></content:encoded>
-							<wfw:commentRss>http://www.jump-around.eu/2009/02/02/rocking-in-oaxaca/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-						<georss:point>16.7500000 -96.8333359</georss:point><post-id xmlns="com-wordpress:feed-additions:1">179</post-id>	</item>
+									<georss:point>16.7500000 -96.8333359</georss:point>	</item>
 		<item>
 		<title>Flying around Mexico City</title>
 		<link>http://www.jump-around.eu/2009/02/02/flying-around-mexico/</link>
-				<comments>http://www.jump-around.eu/2009/02/02/flying-around-mexico/#comments</comments>
 				<pubDate>Mon, 02 Feb 2009 14:49:02 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[Jumps]]></category>
@@ -56,8 +50,6 @@ xmlns:georss="http://www.georss.org/georss" >
 				<description><![CDATA[Yeah, I prodely present our first honorary members from my hometown Altdorf. This is Tobi, Daniel and Andreas jumping around at historical places in Mexico City&#8230;]]></description>
 								<content:encoded><![CDATA[<p>Yeah, I prodely present our first honorary members from my hometown <a title="Altdorf" href="http://en.wikipedia.org/wiki/Altdorf_bei_N%C3%BCrnberg" target="_blank">Altdorf</a>. This is <a title="Tobi" href="http://eltobse.blogspot.com/">Tobi</a>, Daniel and Andreas jumping around at historical places in Mexico City&#8230;</p>
 ]]></content:encoded>
-							<wfw:commentRss>http://www.jump-around.eu/2009/02/02/flying-around-mexico/feed/</wfw:commentRss>
-		<slash:comments>2</slash:comments>
-						<georss:point>19.4341660 -99.1386108</georss:point><post-id xmlns="com-wordpress:feed-additions:1">175</post-id>	</item>
+									<georss:point>19.4341660 -99.1386108</georss:point>	</item>
 	</channel>
 </rss>

@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
-xmlns:georss="http://www.georss.org/georss" >
+	xmlns:georss="http://www.georss.org/georss" >
 
 <channel>
 	<title>Jump-Around.eu</title>
@@ -21,10 +19,9 @@ xmlns:georss="http://www.georss.org/georss" >
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.2.2</generator>
-<site xmlns="com-wordpress:feed-additions:1">6142598</site>	<item>
+	<item>
 		<title>Miranda Wedding</title>
 		<link>http://www.jump-around.eu/2013/02/03/miranda-wedding/</link>
-				<comments>http://www.jump-around.eu/2013/02/03/miranda-wedding/#respond</comments>
 				<pubDate>Sun, 03 Feb 2013 00:22:29 +0000</pubDate>
 		<dc:creator><![CDATA[tobi]]></dc:creator>
 				<category><![CDATA[BestOf]]></category>
@@ -34,13 +31,10 @@ xmlns:georss="http://www.georss.org/georss" >
 		<guid isPermaLink="false">http://www.jump-around.eu/2023/02/03/miranda-wedding/</guid>
 				<description><![CDATA[]]></description>
 								<content:encoded><![CDATA[]]></content:encoded>
-							<wfw:commentRss>http://www.jump-around.eu/2013/02/03/miranda-wedding/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-						<post-id xmlns="com-wordpress:feed-additions:1">477</post-id>	</item>
+										</item>
 		<item>
 		<title>Jumping in Bjur Khalif</title>
 		<link>http://www.jump-around.eu/2013/02/02/jumping-in-bjur-khalif/</link>
-				<comments>http://www.jump-around.eu/2013/02/02/jumping-in-bjur-khalif/#respond</comments>
 				<pubDate>Sat, 02 Feb 2013 21:27:57 +0000</pubDate>
 		<dc:creator><![CDATA[tobi]]></dc:creator>
 				<category><![CDATA[Jumps]]></category>
@@ -51,13 +45,10 @@ xmlns:georss="http://www.georss.org/georss" >
 				<description><![CDATA[Jump]]></description>
 								<content:encoded><![CDATA[<p>Jump </p>
 ]]></content:encoded>
-							<wfw:commentRss>http://www.jump-around.eu/2013/02/02/jumping-in-bjur-khalif/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-						<post-id xmlns="com-wordpress:feed-additions:1">470</post-id>	</item>
+										</item>
 		<item>
 		<title>12 Apostels Ahead!</title>
 		<link>http://www.jump-around.eu/2013/01/29/12-apostels-ahead/</link>
-				<comments>http://www.jump-around.eu/2013/01/29/12-apostels-ahead/#respond</comments>
 				<pubDate>Tue, 29 Jan 2013 09:54:16 +0000</pubDate>
 		<dc:creator><![CDATA[tobi]]></dc:creator>
 				<category><![CDATA[Jumps]]></category>
@@ -66,13 +57,10 @@ xmlns:georss="http://www.georss.org/georss" >
 		<guid isPermaLink="false">http://www.jump-around.eu/2023/01/29/12-apostels-ahead/</guid>
 				<description><![CDATA[]]></description>
 								<content:encoded><![CDATA[]]></content:encoded>
-							<wfw:commentRss>http://www.jump-around.eu/2013/01/29/12-apostels-ahead/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-						<post-id xmlns="com-wordpress:feed-additions:1">471</post-id>	</item>
+										</item>
 		<item>
 		<title>Great Ocean Road about to start</title>
 		<link>http://www.jump-around.eu/2013/01/29/great-ocean-road-about-to-start/</link>
-				<comments>http://www.jump-around.eu/2013/01/29/great-ocean-road-about-to-start/#respond</comments>
 				<pubDate>Tue, 29 Jan 2013 03:24:10 +0000</pubDate>
 		<dc:creator><![CDATA[tobi]]></dc:creator>
 				<category><![CDATA[Jumps]]></category>
@@ -81,13 +69,10 @@ xmlns:georss="http://www.georss.org/georss" >
 		<guid isPermaLink="false">http://www.jump-around.eu/2023/01/29/great-ocean-road-about-to-start/</guid>
 				<description><![CDATA[]]></description>
 								<content:encoded><![CDATA[]]></content:encoded>
-							<wfw:commentRss>http://www.jump-around.eu/2013/01/29/great-ocean-road-about-to-start/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-						<post-id xmlns="com-wordpress:feed-additions:1">472</post-id>	</item>
+										</item>
 		<item>
 		<title>Visiting Christina</title>
 		<link>http://www.jump-around.eu/2012/06/07/visiting-christina/</link>
-				<comments>http://www.jump-around.eu/2012/06/07/visiting-christina/#respond</comments>
 				<pubDate>Wed, 06 Jun 2012 23:56:28 +0000</pubDate>
 		<dc:creator><![CDATA[tobi]]></dc:creator>
 				<category><![CDATA[Jumps]]></category>
@@ -95,13 +80,10 @@ xmlns:georss="http://www.georss.org/georss" >
 		<guid isPermaLink="false">http://www.jump-around.eu/2022/06/07/visiting-christina/</guid>
 				<description><![CDATA[]]></description>
 								<content:encoded><![CDATA[]]></content:encoded>
-							<wfw:commentRss>http://www.jump-around.eu/2012/06/07/visiting-christina/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-						<post-id xmlns="com-wordpress:feed-additions:1">473</post-id>	</item>
+										</item>
 		<item>
 		<title>Acropolis and me</title>
 		<link>http://www.jump-around.eu/2012/06/05/acropolis-and-me/</link>
-				<comments>http://www.jump-around.eu/2012/06/05/acropolis-and-me/#respond</comments>
 				<pubDate>Tue, 05 Jun 2012 12:56:26 +0000</pubDate>
 		<dc:creator><![CDATA[tobi]]></dc:creator>
 				<category><![CDATA[BestOf]]></category>
@@ -110,13 +92,10 @@ xmlns:georss="http://www.georss.org/georss" >
 		<guid isPermaLink="false">http://www.jump-around.eu/2022/06/05/acropolis-and-me/</guid>
 				<description><![CDATA[]]></description>
 								<content:encoded><![CDATA[]]></content:encoded>
-							<wfw:commentRss>http://www.jump-around.eu/2012/06/05/acropolis-and-me/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-						<post-id xmlns="com-wordpress:feed-additions:1">478</post-id>	</item>
+										</item>
 		<item>
 		<title>End of Oder BikeTour 2012</title>
 		<link>http://www.jump-around.eu/2012/05/29/end-of-oder-biketour-2012/</link>
-				<comments>http://www.jump-around.eu/2012/05/29/end-of-oder-biketour-2012/#respond</comments>
 				<pubDate>Tue, 29 May 2012 13:03:20 +0000</pubDate>
 		<dc:creator><![CDATA[tobi]]></dc:creator>
 				<category><![CDATA[BestOf]]></category>
@@ -127,13 +106,10 @@ xmlns:georss="http://www.georss.org/georss" >
 		<guid isPermaLink="false">http://www.jump-around.eu/2022/05/29/end-of-oder-biketour-2012/</guid>
 				<description><![CDATA[]]></description>
 								<content:encoded><![CDATA[]]></content:encoded>
-							<wfw:commentRss>http://www.jump-around.eu/2012/05/29/end-of-oder-biketour-2012/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-						<post-id xmlns="com-wordpress:feed-additions:1">474</post-id>	</item>
+										</item>
 		<item>
 		<title>Somewhere on Tenerife</title>
 		<link>http://www.jump-around.eu/2012/03/01/somewhere-on-tenerife/</link>
-				<comments>http://www.jump-around.eu/2012/03/01/somewhere-on-tenerife/#respond</comments>
 				<pubDate>Thu, 01 Mar 2012 17:53:50 +0000</pubDate>
 		<dc:creator><![CDATA[tobi]]></dc:creator>
 				<category><![CDATA[Jumps]]></category>
@@ -141,13 +117,10 @@ xmlns:georss="http://www.georss.org/georss" >
 		<guid isPermaLink="false">http://www.jump-around.eu/2022/03/01/somewhere-on-tenerife/</guid>
 				<description><![CDATA[]]></description>
 								<content:encoded><![CDATA[]]></content:encoded>
-							<wfw:commentRss>http://www.jump-around.eu/2012/03/01/somewhere-on-tenerife/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-						<post-id xmlns="com-wordpress:feed-additions:1">475</post-id>	</item>
+										</item>
 		<item>
 		<title>Top of Teide</title>
 		<link>http://www.jump-around.eu/2012/03/01/top-of-teide/</link>
-				<comments>http://www.jump-around.eu/2012/03/01/top-of-teide/#respond</comments>
 				<pubDate>Thu, 01 Mar 2012 14:21:16 +0000</pubDate>
 		<dc:creator><![CDATA[tobi]]></dc:creator>
 				<category><![CDATA[BestOf]]></category>
@@ -157,13 +130,10 @@ xmlns:georss="http://www.georss.org/georss" >
 		<guid isPermaLink="false">http://www.jump-around.eu/2022/03/01/top-of-teide/</guid>
 				<description><![CDATA[]]></description>
 								<content:encoded><![CDATA[]]></content:encoded>
-							<wfw:commentRss>http://www.jump-around.eu/2012/03/01/top-of-teide/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-						<post-id xmlns="com-wordpress:feed-additions:1">479</post-id>	</item>
+										</item>
 		<item>
 		<title>Hike about to start</title>
 		<link>http://www.jump-around.eu/2012/02/22/hike-about-to-start/</link>
-				<comments>http://www.jump-around.eu/2012/02/22/hike-about-to-start/#respond</comments>
 				<pubDate>Wed, 22 Feb 2012 13:46:51 +0000</pubDate>
 		<dc:creator><![CDATA[tobi]]></dc:creator>
 				<category><![CDATA[Jumps]]></category>
@@ -171,8 +141,6 @@ xmlns:georss="http://www.georss.org/georss" >
 		<guid isPermaLink="false">http://www.jump-around.eu/2022/02/22/hike-about-to-start/</guid>
 				<description><![CDATA[]]></description>
 								<content:encoded><![CDATA[]]></content:encoded>
-							<wfw:commentRss>http://www.jump-around.eu/2012/02/22/hike-about-to-start/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-						<post-id xmlns="com-wordpress:feed-additions:1">476</post-id>	</item>
+										</item>
 	</channel>
 </rss>

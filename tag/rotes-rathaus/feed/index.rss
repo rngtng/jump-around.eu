@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
-xmlns:georss="http://www.georss.org/georss" >
+	xmlns:georss="http://www.georss.org/georss" >
 
 <channel>
 	<title>Rotes Rathaus &#8211; Jump-Around.eu</title>
@@ -21,10 +19,9 @@ xmlns:georss="http://www.georss.org/georss" >
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.2.2</generator>
-<site xmlns="com-wordpress:feed-additions:1">6142598</site>	<item>
+	<item>
 		<title>Berlin Berlin Berlin</title>
 		<link>http://www.jump-around.eu/2007/04/29/berlin-berlin-berlin/</link>
-				<comments>http://www.jump-around.eu/2007/04/29/berlin-berlin-berlin/#respond</comments>
 				<pubDate>Sun, 29 Apr 2007 16:38:16 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[BestOf]]></category>
@@ -39,8 +36,6 @@ xmlns:georss="http://www.georss.org/georss" >
 				<description><![CDATA[Jeah, this is part of the documentation of our big reunion in Berlin, when our charming Spanish friends came over to visit Berlin. We spent there some days together and jumped at historical places, like the [qype id=33233]. Check also the wikipedia page.]]></description>
 								<content:encoded><![CDATA[<p>Jeah, this is part of the documentation of our big reunion in Berlin, when our charming Spanish friends came over to visit Berlin. We spent there some days together and jumped at historical places, like the [qype id=33233]. Check also the <a title="Rotes Rathaus" href="http://en.wikipedia.org/wiki/Rotes_Rathaus" target="_blank">wikipedia page</a>.</p>
 ]]></content:encoded>
-							<wfw:commentRss>http://www.jump-around.eu/2007/04/29/berlin-berlin-berlin/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-						<georss:point>52.4486923 13.3789988</georss:point><post-id xmlns="com-wordpress:feed-additions:1">196</post-id>	</item>
+									<georss:point>52.4486923 13.3789988</georss:point>	</item>
 	</channel>
 </rss>

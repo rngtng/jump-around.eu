@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
-xmlns:georss="http://www.georss.org/georss" >
+	xmlns:georss="http://www.georss.org/georss" >
 
 <channel>
 	<title>Cecile &#8211; Jump-Around.eu</title>
@@ -21,10 +19,9 @@ xmlns:georss="http://www.georss.org/georss" >
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.2.2</generator>
-<site xmlns="com-wordpress:feed-additions:1">6142598</site>	<item>
+	<item>
 		<title>Barcelona Palace</title>
 		<link>http://www.jump-around.eu/2007/03/18/love2barca/</link>
-				<comments>http://www.jump-around.eu/2007/03/18/love2barca/#respond</comments>
 				<pubDate>Sun, 18 Mar 2007 17:22:56 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[Jumps]]></category>
@@ -39,13 +36,10 @@ xmlns:georss="http://www.georss.org/georss" >
 				<description><![CDATA[Back to the roots: Hey Cecile, it&#8217;s been so cool to meet you again! Whenever the founding team met again it was time for a jump! Hope this will go on like that&#8230;]]></description>
 								<content:encoded><![CDATA[<p>Back to the roots: Hey Cecile, it&#8217;s been so cool to meet you again! Whenever the founding team met again it was time for a jump! Hope this will go on like that&#8230;</p>
 ]]></content:encoded>
-							<wfw:commentRss>http://www.jump-around.eu/2007/03/18/love2barca/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-						<georss:point>41.3715286 2.1517100</georss:point><post-id xmlns="com-wordpress:feed-additions:1">157</post-id>	</item>
+									<georss:point>41.3715286 2.1517100</georss:point>	</item>
 		<item>
 		<title>toureifel</title>
 		<link>http://www.jump-around.eu/2004/08/04/toureifel/</link>
-				<comments>http://www.jump-around.eu/2004/08/04/toureifel/#respond</comments>
 				<pubDate>Wed, 04 Aug 2004 21:13:58 +0000</pubDate>
 		<dc:creator><![CDATA[tobi]]></dc:creator>
 				<category><![CDATA[Jumps]]></category>
@@ -59,8 +53,6 @@ xmlns:georss="http://www.georss.org/georss" >
 				<description><![CDATA[I think this is the beginning of our jumping career. Well as you can see these are our first steps with the autotimer of our camera and we are still working on our timing 🙂]]></description>
 								<content:encoded><![CDATA[<p>I think this is the beginning of our jumping career. Well as you can see these are our first steps with the autotimer of our camera and we are still working on our timing <img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 ]]></content:encoded>
-							<wfw:commentRss>http://www.jump-around.eu/2004/08/04/toureifel/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-						<georss:point>48.8578262 2.2974300</georss:point><post-id xmlns="com-wordpress:feed-additions:1">131</post-id>	</item>
+									<georss:point>48.8578262 2.2974300</georss:point>	</item>
 	</channel>
 </rss>

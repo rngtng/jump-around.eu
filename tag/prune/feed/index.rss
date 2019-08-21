@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
-xmlns:georss="http://www.georss.org/georss" >
+	xmlns:georss="http://www.georss.org/georss" >
 
 <channel>
 	<title>Prune &#8211; Jump-Around.eu</title>
@@ -21,10 +19,9 @@ xmlns:georss="http://www.georss.org/georss" >
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.2.2</generator>
-<site xmlns="com-wordpress:feed-additions:1">6142598</site>	<item>
+	<item>
 		<title>Jumping with the HD guys</title>
 		<link>http://www.jump-around.eu/2009/02/02/jumping-with-the-hd-guys/</link>
-				<comments>http://www.jump-around.eu/2009/02/02/jumping-with-the-hd-guys/#comments</comments>
 				<pubDate>Mon, 02 Feb 2009 15:47:34 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[Jumps]]></category>
@@ -40,8 +37,6 @@ xmlns:georss="http://www.georss.org/georss" >
 								<content:encoded><![CDATA[<p>Jumping around near my hometown at the historical [qype id=&#8221;140884&#8243;] with my friends from Heidelberg.<br />
 This picture reminds me of <a title="last christmas" href="http://www.jump-around.eu/2007/12/23/jump-3/" target="_self">last christmas</a> , when some friends from Australia, Armenia and Spain visited me in Nürnberg. Hope this goes on like this: No visitors in my hometown without the obligatory jump <img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 ]]></content:encoded>
-							<wfw:commentRss>http://www.jump-around.eu/2009/02/02/jumping-with-the-hd-guys/feed/</wfw:commentRss>
-		<slash:comments>2</slash:comments>
-						<georss:point>49.3598061 11.2047462</georss:point><post-id xmlns="com-wordpress:feed-additions:1">188</post-id>	</item>
+									<georss:point>49.3598061 11.2047462</georss:point>	</item>
 	</channel>
 </rss>

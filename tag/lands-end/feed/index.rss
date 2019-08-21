@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
-xmlns:georss="http://www.georss.org/georss" >
+	xmlns:georss="http://www.georss.org/georss" >
 
 <channel>
 	<title>Land&#8217;s End &#8211; Jump-Around.eu</title>
@@ -21,10 +19,9 @@ xmlns:georss="http://www.georss.org/georss" >
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.2.2</generator>
-<site xmlns="com-wordpress:feed-additions:1">6142598</site>	<item>
+	<item>
 		<title>Mel&#8217;s Cliff jumps</title>
 		<link>http://www.jump-around.eu/2007/10/13/mels-cliff-jumps/</link>
-				<comments>http://www.jump-around.eu/2007/10/13/mels-cliff-jumps/#comments</comments>
 				<pubDate>Sat, 13 Oct 2007 11:00:54 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[Jumps]]></category>
@@ -36,13 +33,10 @@ xmlns:georss="http://www.georss.org/georss" >
 				<description><![CDATA[As Land&#8217;s End is such a fantastic place at the very west of Cornwall, we decided to dedicate a jumping serie to each of us. Let&#8217;s start with Melanies &#8220;airwalk&#8221; 🙂]]></description>
 								<content:encoded><![CDATA[<p>As <a title="Land's End" href="http://en.wikipedia.org/wiki/Lands_end" target="_self">Land&#8217;s End</a> is such a fantastic place at the very west of Cornwall, we decided to dedicate a jumping serie to each of us. Let&#8217;s start with Melanies &#8220;airwalk&#8221; <img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 ]]></content:encoded>
-							<wfw:commentRss>http://www.jump-around.eu/2007/10/13/mels-cliff-jumps/feed/</wfw:commentRss>
-		<slash:comments>1</slash:comments>
-						<georss:point>50.0653381 -5.7156372</georss:point><post-id xmlns="com-wordpress:feed-additions:1">214</post-id>	</item>
+									<georss:point>50.0653381 -5.7156372</georss:point>	</item>
 		<item>
 		<title>Tobe&#8217;s Land&#8217;s End Jump</title>
 		<link>http://www.jump-around.eu/2007/10/13/tobes-lands-end-jump/</link>
-				<comments>http://www.jump-around.eu/2007/10/13/tobes-lands-end-jump/#respond</comments>
 				<pubDate>Sat, 13 Oct 2007 11:00:53 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[Jumps]]></category>
@@ -54,13 +48,10 @@ xmlns:georss="http://www.georss.org/georss" >
 				<description><![CDATA[As Land&#8217;s End is such a [qype id=&#8221;181653&#8243;]fantastic place[/qype] at the very west of Cornwall, we decided to dedicate a jumping serie to each of us. Look at Tobes face!]]></description>
 								<content:encoded><![CDATA[<p>As <a title="Land's End" href="http://en.wikipedia.org/wiki/Lands_end" target="_self">Land&#8217;s End</a> is such a [qype id=&#8221;181653&#8243;]fantastic place[/qype] at the very west of Cornwall, we decided to dedicate a jumping serie to each of us. Look at Tobes face!</p>
 ]]></content:encoded>
-							<wfw:commentRss>http://www.jump-around.eu/2007/10/13/tobes-lands-end-jump/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-						<georss:point>50.0675850 -5.7149506</georss:point><post-id xmlns="com-wordpress:feed-additions:1">217</post-id>	</item>
+									<georss:point>50.0675850 -5.7149506</georss:point>	</item>
 		<item>
 		<title>Chris&#8217; Land&#8217;s End Jump</title>
 		<link>http://www.jump-around.eu/2007/10/13/chris-lands-end-jump/</link>
-				<comments>http://www.jump-around.eu/2007/10/13/chris-lands-end-jump/#respond</comments>
 				<pubDate>Sat, 13 Oct 2007 11:00:17 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[BestOf]]></category>
@@ -73,8 +64,6 @@ xmlns:georss="http://www.georss.org/georss" >
 				<description><![CDATA[As [qype id=&#8221;181653&#8243;] is such a fantastic place at the very west of Cornwall, we decided to dedicate a jumping series to each of us. Please notice Chris&#8217; incredible style and remarkable height 🙂]]></description>
 								<content:encoded><![CDATA[<p>As [qype id=&#8221;181653&#8243;] is such a fantastic place at the very west of Cornwall, we decided to dedicate a jumping series to each of us. Please notice Chris&#8217; incredible style and remarkable height <img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 ]]></content:encoded>
-							<wfw:commentRss>http://www.jump-around.eu/2007/10/13/chris-lands-end-jump/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-						<georss:point>50.0690002 -5.7170100</georss:point><post-id xmlns="com-wordpress:feed-additions:1">220</post-id>	</item>
+									<georss:point>50.0690002 -5.7170100</georss:point>	</item>
 	</channel>
 </rss>

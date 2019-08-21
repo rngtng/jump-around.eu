@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
-xmlns:georss="http://www.georss.org/georss" >
+	xmlns:georss="http://www.georss.org/georss" >
 
 <channel>
 	<title>USA &#8211; Jump-Around.eu</title>
@@ -21,10 +19,9 @@ xmlns:georss="http://www.georss.org/georss" >
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.2.2</generator>
-<site xmlns="com-wordpress:feed-additions:1">6142598</site>	<item>
+	<item>
 		<title>We are in Hollywood</title>
 		<link>http://www.jump-around.eu/2008/08/30/we-are-in-hollywood/</link>
-				<comments>http://www.jump-around.eu/2008/08/30/we-are-in-hollywood/#respond</comments>
 				<pubDate>Fri, 29 Aug 2008 23:55:51 +0000</pubDate>
 		<dc:creator><![CDATA[tobi]]></dc:creator>
 				<category><![CDATA[Jumps]]></category>
@@ -36,13 +33,10 @@ xmlns:georss="http://www.georss.org/georss" >
 				<description><![CDATA[Finally arrived in L.A. we went to Griffin Park and I couldn&#8217;t resits one last Jump in front of Hollywood sign (although you can&#8217;t see it, its there. Unluckly this had to be taken with my mobile phone camaera)]]></description>
 								<content:encoded><![CDATA[<p>Finally arrived in L.A. we went to Griffin Park and I couldn&#8217;t resits one last Jump in front of Hollywood sign (although you can&#8217;t see it, its there. Unluckly this had to be taken with my mobile phone camaera)</p>
 ]]></content:encoded>
-							<wfw:commentRss>http://www.jump-around.eu/2008/08/30/we-are-in-hollywood/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-						<georss:point>34.1251640 -118.2788086</georss:point><post-id xmlns="com-wordpress:feed-additions:1">6</post-id>	</item>
+									<georss:point>34.1251640 -118.2788086</georss:point>	</item>
 		<item>
 		<title>Extreme Box Jumping &#8211; Kevin Ahead</title>
 		<link>http://www.jump-around.eu/2008/08/28/extreme-box-jumping-kevin-ahead/</link>
-				<comments>http://www.jump-around.eu/2008/08/28/extreme-box-jumping-kevin-ahead/#respond</comments>
 				<pubDate>Thu, 28 Aug 2008 07:25:33 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[Jumps]]></category>
@@ -59,13 +53,10 @@ xmlns:georss="http://www.georss.org/georss" >
 Kevin even shoot this great movie:<br />
 <a href="http://www.youtube.com/watch?v=DjQ3Kxmhds8">http://www.youtube.com/watch?v=DjQ3Kxmhds8</a></p>
 ]]></content:encoded>
-							<wfw:commentRss>http://www.jump-around.eu/2008/08/28/extreme-box-jumping-kevin-ahead/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-						<georss:point>35.2722511 -120.6494522</georss:point><post-id xmlns="com-wordpress:feed-additions:1">108</post-id>	</item>
+									<georss:point>35.2722511 -120.6494522</georss:point>	</item>
 		<item>
 		<title>Back in the USA</title>
 		<link>http://www.jump-around.eu/2008/08/27/back-in-the-usa/</link>
-				<comments>http://www.jump-around.eu/2008/08/27/back-in-the-usa/#respond</comments>
 				<pubDate>Wed, 27 Aug 2008 00:21:44 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[Jumps]]></category>
@@ -78,8 +69,6 @@ Kevin even shoot this great movie:<br />
 				<description><![CDATA[Axel and me were visiting our good friend Martin in SanFran to celebreate his wedding. Afterwards we rode on Highway One down to L.A. and shot this great jumps.]]></description>
 								<content:encoded><![CDATA[<p>Axel and me were visiting our good friend Martin in SanFran to celebreate his wedding. Afterwards we  rode on Highway One down to L.A. and shot this great jumps.</p>
 ]]></content:encoded>
-							<wfw:commentRss>http://www.jump-around.eu/2008/08/27/back-in-the-usa/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-						<georss:point>35.2097206 -120.8551025</georss:point><post-id xmlns="com-wordpress:feed-additions:1">54</post-id>	</item>
+									<georss:point>35.2097206 -120.8551025</georss:point>	</item>
 	</channel>
 </rss>
