@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>balticsea &#8211; Jump-Around.eu</title>
+	<atom:link href="http://www.jump-around.eu/tag/balticsea/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.jump-around.eu</link>
+	<description>Jumping Pictures Worldwide</description>
+	<lastBuildDate>Sun, 18 Jan 2009 16:28:47 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.2</generator>
+<site xmlns="com-wordpress:feed-additions:1">6142598</site>	<item>
+		<title>Pete &#038; Juy Rock!</title>
+		<link>http://www.jump-around.eu/2008/09/28/pete-juy-rock/</link>
+				<comments>http://www.jump-around.eu/2008/09/28/pete-juy-rock/#respond</comments>
+				<pubDate>Sun, 28 Sep 2008 17:32:28 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Jumps]]></category>
+		<category><![CDATA[balticsea]]></category>
+		<category><![CDATA[juy]]></category>
+		<category><![CDATA[pete]]></category>
+		<category><![CDATA[Tobi]]></category>
+
+		<guid isPermaLink="false">http://www.jump-around.eu/2008/09/28/pete-juy-rock/</guid>
+				<description><![CDATA[Juy and Pete invited me for a weekend trip to their nice home in Lübeck. Of course we had to see the baltic sea near by as well, and started jumping&#8230;.]]></description>
+								<content:encoded><![CDATA[<p>Juy and Pete invited me for a weekend trip to their nice home in Lübeck. Of course we had to see the baltic sea near by as well, and started jumping&#8230;.</p>
+]]></content:encoded>
+							<wfw:commentRss>http://www.jump-around.eu/2008/09/28/pete-juy-rock/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<georss:point>53.9925308 10.8278837</georss:point><post-id xmlns="com-wordpress:feed-additions:1">120</post-id>	</item>
+	</channel>
+</rss>

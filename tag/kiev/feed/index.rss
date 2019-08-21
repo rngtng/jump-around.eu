@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>kiev &#8211; Jump-Around.eu</title>
+	<atom:link href="http://www.jump-around.eu/tag/kiev/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.jump-around.eu</link>
+	<description>Jumping Pictures Worldwide</description>
+	<lastBuildDate>Wed, 30 Jun 2010 14:19:34 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.2</generator>
+<site xmlns="com-wordpress:feed-additions:1">6142598</site>	<item>
+		<title>Independence Jump</title>
+		<link>http://www.jump-around.eu/2010/05/05/independence-jump/</link>
+				<comments>http://www.jump-around.eu/2010/05/05/independence-jump/#respond</comments>
+				<pubDate>Wed, 05 May 2010 16:32:29 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Jumps]]></category>
+		<category><![CDATA[kiev]]></category>
+		<category><![CDATA[Tobi]]></category>
+		<category><![CDATA[unkraine]]></category>
+
+		<guid isPermaLink="false">http://www.jump-around.eu/2020/05/05/independence-jump/</guid>
+				<description><![CDATA[I arrived in Kiev at the famous square of Independence]]></description>
+								<content:encoded><![CDATA[<p>I arrived in Kiev at the famous square of Independence</p>
+]]></content:encoded>
+							<wfw:commentRss>http://www.jump-around.eu/2010/05/05/independence-jump/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<georss:point>50.4500008 30.5233326</georss:point><post-id xmlns="com-wordpress:feed-additions:1">436</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>berlin &#8211; Jump-Around.eu</title>
+	<atom:link href="http://www.jump-around.eu/tag/berlin/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.jump-around.eu</link>
+	<description>Jumping Pictures Worldwide</description>
+	<lastBuildDate>Sat, 22 Jan 2011 19:16:38 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.2</generator>
+<site xmlns="com-wordpress:feed-additions:1">6142598</site>	<item>
+		<title>Greek Jumping</title>
+		<link>http://www.jump-around.eu/2010/12/10/greek-jumping/</link>
+				<comments>http://www.jump-around.eu/2010/12/10/greek-jumping/#respond</comments>
+				<pubDate>Fri, 10 Dec 2010 01:12:45 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[BestOf]]></category>
+		<category><![CDATA[Jumps]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[christina]]></category>
+		<category><![CDATA[quadratube]]></category>
+		<category><![CDATA[Tobi]]></category>
+
+		<guid isPermaLink="false">http://www.jump-around.eu/2020/12/10/greek-jumping/</guid>
+				<description><![CDATA[]]></description>
+								<content:encoded><![CDATA[]]></content:encoded>
+							<wfw:commentRss>http://www.jump-around.eu/2010/12/10/greek-jumping/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">460</post-id>	</item>
+		<item>
+		<title>Goodbye 2007, Welcome 2008</title>
+		<link>http://www.jump-around.eu/2008/01/01/goodbye-2007-welcome-2008/</link>
+				<comments>http://www.jump-around.eu/2008/01/01/goodbye-2007-welcome-2008/#respond</comments>
+				<pubDate>Tue, 01 Jan 2008 01:10:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Jumps]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[Tobi]]></category>
+
+		<guid isPermaLink="false">http://www.jump-around.eu/2008/01/01/hny-jump/</guid>
+				<description><![CDATA[Sebastian invited Miranda and me to his New Years Eve Party to Berlin, which of course we couldn&#8217;t miss. Short after midnight we walked to the Warschauer Bridge where many other people already celebrated like mad. Fireworks and crackers everywhere, that&#8217;s war?! Anyway, we jump!]]></description>
+								<content:encoded><![CDATA[<p>Sebastian invited Miranda and me to his New Years Eve Party to Berlin, which of course we couldn&#8217;t miss. Short after midnight we walked to the Warschauer Bridge where many other people already celebrated like mad. Fireworks and crackers everywhere, that&#8217;s war?! Anyway, we jump!</p>
+]]></content:encoded>
+							<wfw:commentRss>http://www.jump-around.eu/2008/01/01/goodbye-2007-welcome-2008/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<georss:point>52.5073395 13.4482946</georss:point><post-id xmlns="com-wordpress:feed-additions:1">111</post-id>	</item>
+		<item>
+		<title>Berlin here we are!</title>
+		<link>http://www.jump-around.eu/2007/12/30/berlin-here-we-are/</link>
+				<comments>http://www.jump-around.eu/2007/12/30/berlin-here-we-are/#respond</comments>
+				<pubDate>Sun, 30 Dec 2007 16:16:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Jumps]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[Miranda]]></category>
+		<category><![CDATA[Tobi]]></category>
+
+		<guid isPermaLink="false">http://www.jump-around.eu/2007/12/30/berlin/</guid>
+				<description><![CDATA[A short visit to the Capital Berlin before the year says goodbye. We couldn&#8217;t miss seeing all favorites sights and places and of course not to jump..]]></description>
+								<content:encoded><![CDATA[<p>A short visit to the Capital Berlin before the year says goodbye. We couldn&#8217;t miss seeing all favorites sights and places and of course not to jump..</p>
+]]></content:encoded>
+							<wfw:commentRss>http://www.jump-around.eu/2007/12/30/berlin-here-we-are/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<georss:point>52.5176811 13.3796310</georss:point><post-id xmlns="com-wordpress:feed-additions:1">115</post-id>	</item>
+		<item>
+		<title>Berlin Berlin Berlin</title>
+		<link>http://www.jump-around.eu/2007/04/29/berlin-berlin-berlin/</link>
+				<comments>http://www.jump-around.eu/2007/04/29/berlin-berlin-berlin/#respond</comments>
+				<pubDate>Sun, 29 Apr 2007 16:38:16 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[BestOf]]></category>
+		<category><![CDATA[Jumps]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[Chris]]></category>
+		<category><![CDATA[Malte]]></category>
+		<category><![CDATA[Rotes Rathaus]]></category>
+		<category><![CDATA[SpanierInnen]]></category>
+
+		<guid isPermaLink="false">http://www.jump-around.eu/?p=196</guid>
+				<description><![CDATA[Jeah, this is part of the documentation of our big reunion in Berlin, when our charming Spanish friends came over to visit Berlin. We spent there some days together and jumped at historical places, like the [qype id=33233]. Check also the wikipedia page.]]></description>
+								<content:encoded><![CDATA[<p>Jeah, this is part of the documentation of our big reunion in Berlin, when our charming Spanish friends came over to visit Berlin. We spent there some days together and jumped at historical places, like the [qype id=33233]. Check also the <a title="Rotes Rathaus" href="http://en.wikipedia.org/wiki/Rotes_Rathaus" target="_blank">wikipedia page</a>.</p>
+]]></content:encoded>
+							<wfw:commentRss>http://www.jump-around.eu/2007/04/29/berlin-berlin-berlin/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<georss:point>52.4486923 13.3789988</georss:point><post-id xmlns="com-wordpress:feed-additions:1">196</post-id>	</item>
+	</channel>
+</rss>

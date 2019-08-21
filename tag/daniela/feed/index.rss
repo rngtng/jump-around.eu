@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>daniela &#8211; Jump-Around.eu</title>
+	<atom:link href="http://www.jump-around.eu/tag/daniela/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.jump-around.eu</link>
+	<description>Jumping Pictures Worldwide</description>
+	<lastBuildDate>Wed, 30 Jun 2010 13:03:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.2</generator>
+<site xmlns="com-wordpress:feed-additions:1">6142598</site>	<item>
+		<title>Daniela &#038; Agnes Jump</title>
+		<link>http://www.jump-around.eu/2009/04/12/daniela-agnes-jump/</link>
+				<comments>http://www.jump-around.eu/2009/04/12/daniela-agnes-jump/#respond</comments>
+				<pubDate>Sun, 12 Apr 2009 13:41:27 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Jumps]]></category>
+		<category><![CDATA[agnes]]></category>
+		<category><![CDATA[bike tour]]></category>
+		<category><![CDATA[daniela]]></category>
+		<category><![CDATA[Prinzeninsel]]></category>
+
+		<guid isPermaLink="false">http://www.jump-around.eu/2019/04/12/daniela-agnes-jump/</guid>
+				<description><![CDATA[Stopping by at wonderful beach of the Prinzeninsel, the girls couldn&#8217;t resists to jump..]]></description>
+								<content:encoded><![CDATA[<p>Stopping by at wonderful beach of the Prinzeninsel, the girls couldn&#8217;t resists to jump..</p>
+]]></content:encoded>
+							<wfw:commentRss>http://www.jump-around.eu/2009/04/12/daniela-agnes-jump/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">408</post-id>	</item>
+	</channel>
+</rss>

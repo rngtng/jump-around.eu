@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>Val di Sole &#8211; Jump-Around.eu</title>
+	<atom:link href="http://www.jump-around.eu/tag/val-di-sole/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.jump-around.eu</link>
+	<description>Jumping Pictures Worldwide</description>
+	<lastBuildDate>Wed, 25 Feb 2009 00:09:58 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.2</generator>
+<site xmlns="com-wordpress:feed-additions:1">6142598</site>	<item>
+		<title>Val di Sole</title>
+		<link>http://www.jump-around.eu/2007/04/05/val-di-sole/</link>
+				<comments>http://www.jump-around.eu/2007/04/05/val-di-sole/#respond</comments>
+				<pubDate>Thu, 05 Apr 2007 16:04:29 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Jumps]]></category>
+		<category><![CDATA[Chris]]></category>
+		<category><![CDATA[John]]></category>
+		<category><![CDATA[Val di Sole]]></category>
+		<category><![CDATA[Vestus]]></category>
+
+		<guid isPermaLink="false">http://www.jump-around.eu/?p=193</guid>
+				<description><![CDATA[Uff, this was a long time, till these pictures found their way to the internet. They are a bit outdated but I like them anyway. These are my early childhood friends Vestus, John and me hanging around in the sky near Val di Sole, Italy.]]></description>
+								<content:encoded><![CDATA[<p>Uff, this was a long time, till these pictures found their way to the internet. They are a bit outdated but I like them anyway. These are my early childhood friends Vestus, John and me hanging around in the sky near Val di Sole, Italy.</p>
+]]></content:encoded>
+							<wfw:commentRss>http://www.jump-around.eu/2007/04/05/val-di-sole/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<georss:point>46.3167076 10.8000669</georss:point><post-id xmlns="com-wordpress:feed-additions:1">193</post-id>	</item>
+	</channel>
+</rss>

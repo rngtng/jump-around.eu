@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>Budapest &#8211; Jump-Around.eu</title>
+	<atom:link href="http://www.jump-around.eu/tag/budapest/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.jump-around.eu</link>
+	<description>Jumping Pictures Worldwide</description>
+	<lastBuildDate>Thu, 12 Feb 2009 11:18:12 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.2</generator>
+<site xmlns="com-wordpress:feed-additions:1">6142598</site>	<item>
+		<title>Don&#8217;t get bit by Lions&#8230;</title>
+		<link>http://www.jump-around.eu/2006/09/03/dont-get-bit-by-lions/</link>
+				<comments>http://www.jump-around.eu/2006/09/03/dont-get-bit-by-lions/#respond</comments>
+				<pubDate>Sun, 03 Sep 2006 17:34:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Jumps]]></category>
+		<category><![CDATA[Budapest]]></category>
+		<category><![CDATA[Tobi]]></category>
+
+		<guid isPermaLink="false">http://www.jump-around.eu/2006/09/03/lions/</guid>
+				<description><![CDATA[When visiting Hungary you can&#8217;t miss Budapest. When visiting Budapescht you can&#8217;t miss visiting the Bridge. When visiting the Bridge you can&#8217;t miss to jump &#8211; as easy as that!]]></description>
+								<content:encoded><![CDATA[<p>When visiting Hungary you can&#8217;t miss Budapest. When visiting Budapescht you can&#8217;t miss visiting the Bridge. When visiting the Bridge you can&#8217;t miss to jump &#8211; as easy as that! </p>
+]]></content:encoded>
+							<wfw:commentRss>http://www.jump-around.eu/2006/09/03/dont-get-bit-by-lions/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<georss:point>47.4958649 19.0413666</georss:point><post-id xmlns="com-wordpress:feed-additions:1">138</post-id>	</item>
+	</channel>
+</rss>

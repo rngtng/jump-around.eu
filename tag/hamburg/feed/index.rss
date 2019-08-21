@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>hamburg &#8211; Jump-Around.eu</title>
+	<atom:link href="http://www.jump-around.eu/tag/hamburg/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.jump-around.eu</link>
+	<description>Jumping Pictures Worldwide</description>
+	<lastBuildDate>Wed, 30 Jun 2010 14:20:46 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.2</generator>
+<site xmlns="com-wordpress:feed-additions:1">6142598</site>	<item>
+		<title>HopIt!</title>
+		<link>http://www.jump-around.eu/2010/06/11/hopit/</link>
+				<comments>http://www.jump-around.eu/2010/06/11/hopit/#respond</comments>
+				<pubDate>Fri, 11 Jun 2010 13:57:21 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Jumps]]></category>
+		<category><![CDATA[hamburg]]></category>
+		<category><![CDATA[hopit]]></category>
+		<category><![CDATA[sebastian]]></category>
+		<category><![CDATA[Tobi]]></category>
+
+		<guid isPermaLink="false">http://www.jump-around.eu/2020/06/11/hopit/</guid>
+				<description><![CDATA[Sebstian writes for www.hopit.de too!]]></description>
+								<content:encoded><![CDATA[<p>Sebstian writes for <a href="http://www.hopit.de">www.hopit.de</a> too!</p>
+]]></content:encoded>
+							<wfw:commentRss>http://www.jump-around.eu/2010/06/11/hopit/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">435</post-id>	</item>
+		<item>
+		<title>Ready to go</title>
+		<link>http://www.jump-around.eu/2010/02/05/ready-to-go/</link>
+				<comments>http://www.jump-around.eu/2010/02/05/ready-to-go/#respond</comments>
+				<pubDate>Fri, 05 Feb 2010 20:57:01 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Jumps]]></category>
+		<category><![CDATA[hamburg]]></category>
+		<category><![CDATA[suit]]></category>
+		<category><![CDATA[Tobi]]></category>
+		<category><![CDATA[wg]]></category>
+
+		<guid isPermaLink="false">http://www.jump-around.eu/2020/02/05/ready-to-go/</guid>
+				<description><![CDATA[Swing Out tonight!]]></description>
+								<content:encoded><![CDATA[<p>Swing Out tonight!</p>
+]]></content:encoded>
+							<wfw:commentRss>http://www.jump-around.eu/2010/02/05/ready-to-go/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">439</post-id>	</item>
+		<item>
+		<title>Inside Kunsthalle</title>
+		<link>http://www.jump-around.eu/2009/05/12/inside-kunsthalle/</link>
+				<comments>http://www.jump-around.eu/2009/05/12/inside-kunsthalle/#respond</comments>
+				<pubDate>Tue, 12 May 2009 19:05:24 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Jumps]]></category>
+		<category><![CDATA[Chris]]></category>
+		<category><![CDATA[hamburg]]></category>
+		<category><![CDATA[kunsthalle]]></category>
+		<category><![CDATA[Melanie]]></category>
+		<category><![CDATA[susanne]]></category>
+
+		<guid isPermaLink="false">http://www.jump-around.eu/2019/05/12/inside-kunsthalle/</guid>
+				<description><![CDATA[Yes, you can jump inside the Kunsthalle in Hamburg, like other people do too&#8230;]]></description>
+								<content:encoded><![CDATA[<p>Yes, you can jump inside the Kunsthalle in Hamburg, <a href="http://jumpinginartmuseums.blogspot.com/2010/01/art-jumping-enthusiast-anna-ruth.html">like other people do too</a>&#8230;</p>
+]]></content:encoded>
+							<wfw:commentRss>http://www.jump-around.eu/2009/05/12/inside-kunsthalle/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">410</post-id>	</item>
+		<item>
+		<title>Elbstrand BBQ &#8211; Can&#8217;t stop Joga</title>
+		<link>http://www.jump-around.eu/2009/05/10/elbstrand-bbq-cant-stop-joga/</link>
+				<comments>http://www.jump-around.eu/2009/05/10/elbstrand-bbq-cant-stop-joga/#respond</comments>
+				<pubDate>Sun, 10 May 2009 18:42:09 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[BestOf]]></category>
+		<category><![CDATA[Jumps]]></category>
+		<category><![CDATA[elbstrand]]></category>
+		<category><![CDATA[hamburg]]></category>
+		<category><![CDATA[Tobi]]></category>
+
+		<guid isPermaLink="false">http://www.jump-around.eu/2019/05/10/elbstrand-bbq-cant-stop-joga/</guid>
+				<description><![CDATA[Livia invited to her birthday party at the Elbstrand in Hamburg. It was a gorgeous day and perfect for a jump 😉 [picture by Fabian]]]></description>
+								<content:encoded><![CDATA[<p>Livia invited to her birthday party at the Elbstrand in Hamburg. It was a gorgeous day and perfect for a jump <img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>[picture by Fabian]</p>
+]]></content:encoded>
+							<wfw:commentRss>http://www.jump-around.eu/2009/05/10/elbstrand-bbq-cant-stop-joga/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">406</post-id>	</item>
+		<item>
+		<title>Hafencity Jump Eva&#038;Michi</title>
+		<link>http://www.jump-around.eu/2009/03/29/hafencity-jump-evamichi-jump2/</link>
+				<comments>http://www.jump-around.eu/2009/03/29/hafencity-jump-evamichi-jump2/#respond</comments>
+				<pubDate>Sun, 29 Mar 2009 15:43:35 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Jumps]]></category>
+		<category><![CDATA[eva]]></category>
+		<category><![CDATA[hafencity]]></category>
+		<category><![CDATA[hamburg]]></category>
+		<category><![CDATA[michaela]]></category>
+
+		<guid isPermaLink="false">http://www.jump-around.eu/2019/03/29/hafencity-jump-evamichi-jump2/</guid>
+				<description><![CDATA[Eva and Michaela, two Couchsurfing guests, came along and we had a wonderful sunny day at the Hafencity in Hamburg]]></description>
+								<content:encoded><![CDATA[<p>Eva and Michaela, two Couchsurfing guests, came along and we had a wonderful sunny day at the Hafencity in Hamburg</p>
+]]></content:encoded>
+							<wfw:commentRss>http://www.jump-around.eu/2009/03/29/hafencity-jump-evamichi-jump2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">409</post-id>	</item>
+		<item>
+		<title>Chris Jump in Front of Art</title>
+		<link>http://www.jump-around.eu/2009/02/28/chris-jump-in-front-of-art/</link>
+				<comments>http://www.jump-around.eu/2009/02/28/chris-jump-in-front-of-art/#respond</comments>
+				<pubDate>Sat, 28 Feb 2009 16:31:23 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[BestOf]]></category>
+		<category><![CDATA[Jumps]]></category>
+		<category><![CDATA[Chris]]></category>
+		<category><![CDATA[hamburg]]></category>
+		<category><![CDATA[kunsthalle]]></category>
+
+		<guid isPermaLink="false">http://www.jump-around.eu/?p=371</guid>
+				<description><![CDATA[Chris and Melanie finally came over to visit me in Hamburg. Of course we had to visit the Kunsthalle, and of course we had to jump!]]></description>
+								<content:encoded><![CDATA[<p>Chris and Melanie finally came over to visit me in Hamburg. Of course we had to visit the Kunsthalle, and of course we had to jump!</p>
+]]></content:encoded>
+							<wfw:commentRss>http://www.jump-around.eu/2009/02/28/chris-jump-in-front-of-art/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<georss:point>53.5550003 10.0024004</georss:point><post-id xmlns="com-wordpress:feed-additions:1">371</post-id>	</item>
+		<item>
+		<title>Reeperbahn</title>
+		<link>http://www.jump-around.eu/2008/06/11/reeperbahn/</link>
+				<comments>http://www.jump-around.eu/2008/06/11/reeperbahn/#respond</comments>
+				<pubDate>Wed, 11 Jun 2008 22:43:39 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Jumps]]></category>
+		<category><![CDATA[hamburg]]></category>
+		<category><![CDATA[Tobi]]></category>
+
+		<guid isPermaLink="false">http://www.jump-around.eu/2008/06/11/reeperbahn/</guid>
+				<description><![CDATA[Another Big Night out. Obiously not without missing the Reeperbahn. Especially as my Couchsurfguest Madlen hasn&#8217;t been there before&#8230;]]></description>
+								<content:encoded><![CDATA[<p>Another Big Night out. Obiously not without missing the Reeperbahn. Especially as my Couchsurfguest Madlen hasn&#8217;t been there before&#8230;  </p>
+]]></content:encoded>
+							<wfw:commentRss>http://www.jump-around.eu/2008/06/11/reeperbahn/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<georss:point>53.5496902 9.9676886</georss:point><post-id xmlns="com-wordpress:feed-additions:1">112</post-id>	</item>
+		<item>
+		<title>Still Juggling &#038; Jumping</title>
+		<link>http://www.jump-around.eu/2008/05/26/still-juggling-jumping/</link>
+				<comments>http://www.jump-around.eu/2008/05/26/still-juggling-jumping/#respond</comments>
+				<pubDate>Mon, 26 May 2008 19:27:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Jumps]]></category>
+		<category><![CDATA[hamburg]]></category>
+		<category><![CDATA[Tobi]]></category>
+
+		<guid isPermaLink="false">http://www.jump-around.eu/2008/12/26/jugglingjump2/</guid>
+				<description><![CDATA[It was as beautiful day in Hamburg &#8211; perfect to grap some friends and hang around at the Stadtpark. As the sun went down it created this impressive siluettes, of course with a jump included.]]></description>
+								<content:encoded><![CDATA[<p>It was as beautiful day in Hamburg &#8211;  perfect to grap some friends and hang around at the Stadtpark. As the sun went down it created this impressive <br />siluettes, of course with a jump included.</p>
+]]></content:encoded>
+							<wfw:commentRss>http://www.jump-around.eu/2008/05/26/still-juggling-jumping/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<georss:point>53.5938416 10.0233717</georss:point><post-id xmlns="com-wordpress:feed-additions:1">109</post-id>	</item>
+		<item>
+		<title>Top of Hamburg</title>
+		<link>http://www.jump-around.eu/2008/02/09/top-of-hamburg/</link>
+				<comments>http://www.jump-around.eu/2008/02/09/top-of-hamburg/#respond</comments>
+				<pubDate>Sat, 09 Feb 2008 16:35:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Jumps]]></category>
+		<category><![CDATA[hamburg]]></category>
+		<category><![CDATA[Tobi]]></category>
+
+		<guid isPermaLink="false">http://www.jump-around.eu/2008/02/09/img_0016jpg/</guid>
+				<description><![CDATA[It was early spring in Hamburg and the sun came out to make us warm. We went on the roof top of our flat in Hamburg and enjoyed not only the beautiful view but jumping as well&#8230;]]></description>
+								<content:encoded><![CDATA[<p>It was early spring in Hamburg and the sun came out to make us warm. We went on the roof top of our flat in Hamburg and enjoyed not only the beautiful view but jumping as well&#8230;</p>
+]]></content:encoded>
+							<wfw:commentRss>http://www.jump-around.eu/2008/02/09/top-of-hamburg/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<georss:point>53.5668221 9.9810791</georss:point><post-id xmlns="com-wordpress:feed-additions:1">102</post-id>	</item>
+	</channel>
+</rss>

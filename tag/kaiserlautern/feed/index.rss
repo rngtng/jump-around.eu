@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>Kaiserlautern &#8211; Jump-Around.eu</title>
+	<atom:link href="http://www.jump-around.eu/tag/kaiserlautern/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.jump-around.eu</link>
+	<description>Jumping Pictures Worldwide</description>
+	<lastBuildDate>Thu, 05 Feb 2009 18:47:52 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.2</generator>
+<site xmlns="com-wordpress:feed-additions:1">6142598</site>	<item>
+		<title>Last one and RausAusKL</title>
+		<link>http://www.jump-around.eu/2007/12/20/last-one-and-rausauskl/</link>
+				<comments>http://www.jump-around.eu/2007/12/20/last-one-and-rausauskl/#respond</comments>
+				<pubDate>Thu, 20 Dec 2007 16:59:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Jumps]]></category>
+		<category><![CDATA[Kaiserlautern]]></category>
+		<category><![CDATA[Tobi]]></category>
+
+		<guid isPermaLink="false">http://www.jump-around.eu/2007/12/20/last-one/</guid>
+				<description><![CDATA[Time went fast and after 6 years of studing in Kaiserslautern I finally leave town. I&#8217;m RausAusKL! Next year I&#8217;ll start working in Hamburg. Yeah, Jump!]]></description>
+								<content:encoded><![CDATA[<p>Time went fast and after 6 years of studing in Kaiserslautern I finally leave town. I&#8217;m RausAusKL! Next year I&#8217;ll start working in Hamburg. Yeah, Jump!</p>
+]]></content:encoded>
+							<wfw:commentRss>http://www.jump-around.eu/2007/12/20/last-one-and-rausauskl/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<georss:point>49.4214134 7.7542868</georss:point><post-id xmlns="com-wordpress:feed-additions:1">119</post-id>	</item>
+	</channel>
+</rss>

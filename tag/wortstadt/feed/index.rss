@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>Wörtstadt &#8211; Jump-Around.eu</title>
+	<atom:link href="http://www.jump-around.eu/tag/wortstadt/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.jump-around.eu</link>
+	<description>Jumping Pictures Worldwide</description>
+	<lastBuildDate>Thu, 05 Feb 2009 14:14:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.2</generator>
+<site xmlns="com-wordpress:feed-additions:1">6142598</site>	<item>
+		<title>A Perfect Christmas!</title>
+		<link>http://www.jump-around.eu/2007/12/24/a-perfect-christmas/</link>
+				<comments>http://www.jump-around.eu/2007/12/24/a-perfect-christmas/#respond</comments>
+				<pubDate>Mon, 24 Dec 2007 22:40:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Jumps]]></category>
+		<category><![CDATA[christmas]]></category>
+		<category><![CDATA[Tobi]]></category>
+		<category><![CDATA[Wörtstadt]]></category>
+
+		<guid isPermaLink="false">http://www.jump-around.eu/2007/12/24/jump/</guid>
+				<description><![CDATA[It&#8217;s Christmas and we went to our nexttown near by to attend the midnight mess and meet old friends. Luckly some snow covered the trees and the decoration gives a wonderful light. A perfect time!]]></description>
+								<content:encoded><![CDATA[<p>It&#8217;s Christmas and we went to our next<br />town near by to attend the midnight mess and meet old friends. Luckly some snow covered the trees and the decoration gives a wonderful light. A perfect time!</p>
+]]></content:encoded>
+							<wfw:commentRss>http://www.jump-around.eu/2007/12/24/a-perfect-christmas/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<georss:point>49.8393669 8.1194973</georss:point><post-id xmlns="com-wordpress:feed-additions:1">106</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>Axel &#8211; Jump-Around.eu</title>
+	<atom:link href="http://www.jump-around.eu/tag/axel/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.jump-around.eu</link>
+	<description>Jumping Pictures Worldwide</description>
+	<lastBuildDate>Sat, 17 Jan 2009 16:03:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.2</generator>
+<site xmlns="com-wordpress:feed-additions:1">6142598</site>	<item>
+		<title>Back in the USA</title>
+		<link>http://www.jump-around.eu/2008/08/27/back-in-the-usa/</link>
+				<comments>http://www.jump-around.eu/2008/08/27/back-in-the-usa/#respond</comments>
+				<pubDate>Wed, 27 Aug 2008 00:21:44 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Jumps]]></category>
+		<category><![CDATA[Axel]]></category>
+		<category><![CDATA[California]]></category>
+		<category><![CDATA[Tobi]]></category>
+		<category><![CDATA[USA]]></category>
+
+		<guid isPermaLink="false">http://www.jump-around.eu/?p=54</guid>
+				<description><![CDATA[Axel and me were visiting our good friend Martin in SanFran to celebreate his wedding. Afterwards we rode on Highway One down to L.A. and shot this great jumps.]]></description>
+								<content:encoded><![CDATA[<p>Axel and me were visiting our good friend Martin in SanFran to celebreate his wedding. Afterwards we  rode on Highway One down to L.A. and shot this great jumps.</p>
+]]></content:encoded>
+							<wfw:commentRss>http://www.jump-around.eu/2008/08/27/back-in-the-usa/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<georss:point>35.2097206 -120.8551025</georss:point><post-id xmlns="com-wordpress:feed-additions:1">54</post-id>	</item>
+	</channel>
+</rss>

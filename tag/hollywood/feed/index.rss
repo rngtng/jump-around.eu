@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>Hollywood &#8211; Jump-Around.eu</title>
+	<atom:link href="http://www.jump-around.eu/tag/hollywood/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.jump-around.eu</link>
+	<description>Jumping Pictures Worldwide</description>
+	<lastBuildDate>Sat, 17 Jan 2009 14:58:45 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.2</generator>
+<site xmlns="com-wordpress:feed-additions:1">6142598</site>	<item>
+		<title>We are in Hollywood</title>
+		<link>http://www.jump-around.eu/2008/08/30/we-are-in-hollywood/</link>
+				<comments>http://www.jump-around.eu/2008/08/30/we-are-in-hollywood/#respond</comments>
+				<pubDate>Fri, 29 Aug 2008 23:55:51 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Jumps]]></category>
+		<category><![CDATA[Hollywood]]></category>
+		<category><![CDATA[Tobi]]></category>
+		<category><![CDATA[USA]]></category>
+
+		<guid isPermaLink="false">http://www.jump-around.eu/?p=6</guid>
+				<description><![CDATA[Finally arrived in L.A. we went to Griffin Park and I couldn&#8217;t resits one last Jump in front of Hollywood sign (although you can&#8217;t see it, its there. Unluckly this had to be taken with my mobile phone camaera)]]></description>
+								<content:encoded><![CDATA[<p>Finally arrived in L.A. we went to Griffin Park and I couldn&#8217;t resits one last Jump in front of Hollywood sign (although you can&#8217;t see it, its there. Unluckly this had to be taken with my mobile phone camaera)</p>
+]]></content:encoded>
+							<wfw:commentRss>http://www.jump-around.eu/2008/08/30/we-are-in-hollywood/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<georss:point>34.1251640 -118.2788086</georss:point><post-id xmlns="com-wordpress:feed-additions:1">6</post-id>	</item>
+	</channel>
+</rss>

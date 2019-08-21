@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>esa &#8211; Jump-Around.eu</title>
+	<atom:link href="http://www.jump-around.eu/tag/esa/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.jump-around.eu</link>
+	<description>Jumping Pictures Worldwide</description>
+	<lastBuildDate>Mon, 09 Feb 2009 23:18:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.2</generator>
+<site xmlns="com-wordpress:feed-additions:1">6142598</site>	<item>
+		<title>Esa Christmas Party</title>
+		<link>http://www.jump-around.eu/2007/12/13/esa-christmas-party/</link>
+				<comments>http://www.jump-around.eu/2007/12/13/esa-christmas-party/#respond</comments>
+				<pubDate>Thu, 13 Dec 2007 21:14:27 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Jumps]]></category>
+		<category><![CDATA[Chris]]></category>
+		<category><![CDATA[christmas]]></category>
+		<category><![CDATA[esa]]></category>
+		<category><![CDATA[self-timer]]></category>
+		<category><![CDATA[Tobi]]></category>
+
+		<guid isPermaLink="false">http://www.jump-around.eu/?p=282</guid>
+				<description><![CDATA[On our Christmas party we convinced our flatmates after some bottles of wine to do a synchronous jump. And it worked out: What a timing, we are all in the air at the same time! Well, at least most of us &#8211; Eva 🙂]]></description>
+								<content:encoded><![CDATA[<p>On our Christmas party we convinced our flatmates after some bottles of wine to do a synchronous jump. And it worked out: What a timing, we are all in the air at the same time! Well, at least most of us &#8211; Eva <img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+							<wfw:commentRss>http://www.jump-around.eu/2007/12/13/esa-christmas-party/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<georss:point>49.4214706 7.7561760</georss:point><post-id xmlns="com-wordpress:feed-additions:1">282</post-id>	</item>
+		<item>
+		<title>Jump!</title>
+		<link>http://www.jump-around.eu/2007/02/01/jump-6/</link>
+				<comments>http://www.jump-around.eu/2007/02/01/jump-6/#respond</comments>
+				<pubDate>Thu, 01 Feb 2007 20:49:40 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Jumps]]></category>
+		<category><![CDATA[esa]]></category>
+		<category><![CDATA[fastnacht]]></category>
+		<category><![CDATA[kaiserslautern]]></category>
+		<category><![CDATA[Tobi]]></category>
+
+		<guid isPermaLink="false">http://www.jump-around.eu/2007/02/01/jump-6/</guid>
+				<description><![CDATA[]]></description>
+								<content:encoded><![CDATA[]]></content:encoded>
+							<wfw:commentRss>http://www.jump-around.eu/2007/02/01/jump-6/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<georss:point>49.4213257 7.7533541</georss:point><post-id xmlns="com-wordpress:feed-additions:1">152</post-id>	</item>
+	</channel>
+</rss>

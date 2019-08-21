@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>kunsthalle &#8211; Jump-Around.eu</title>
+	<atom:link href="http://www.jump-around.eu/tag/kunsthalle/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.jump-around.eu</link>
+	<description>Jumping Pictures Worldwide</description>
+	<lastBuildDate>Wed, 30 Jun 2010 13:12:34 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.2</generator>
+<site xmlns="com-wordpress:feed-additions:1">6142598</site>	<item>
+		<title>Inside Kunsthalle</title>
+		<link>http://www.jump-around.eu/2009/05/12/inside-kunsthalle/</link>
+				<comments>http://www.jump-around.eu/2009/05/12/inside-kunsthalle/#respond</comments>
+				<pubDate>Tue, 12 May 2009 19:05:24 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Jumps]]></category>
+		<category><![CDATA[Chris]]></category>
+		<category><![CDATA[hamburg]]></category>
+		<category><![CDATA[kunsthalle]]></category>
+		<category><![CDATA[Melanie]]></category>
+		<category><![CDATA[susanne]]></category>
+
+		<guid isPermaLink="false">http://www.jump-around.eu/2019/05/12/inside-kunsthalle/</guid>
+				<description><![CDATA[Yes, you can jump inside the Kunsthalle in Hamburg, like other people do too&#8230;]]></description>
+								<content:encoded><![CDATA[<p>Yes, you can jump inside the Kunsthalle in Hamburg, <a href="http://jumpinginartmuseums.blogspot.com/2010/01/art-jumping-enthusiast-anna-ruth.html">like other people do too</a>&#8230;</p>
+]]></content:encoded>
+							<wfw:commentRss>http://www.jump-around.eu/2009/05/12/inside-kunsthalle/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">410</post-id>	</item>
+		<item>
+		<title>Chris Jump in Front of Art</title>
+		<link>http://www.jump-around.eu/2009/02/28/chris-jump-in-front-of-art/</link>
+				<comments>http://www.jump-around.eu/2009/02/28/chris-jump-in-front-of-art/#respond</comments>
+				<pubDate>Sat, 28 Feb 2009 16:31:23 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[BestOf]]></category>
+		<category><![CDATA[Jumps]]></category>
+		<category><![CDATA[Chris]]></category>
+		<category><![CDATA[hamburg]]></category>
+		<category><![CDATA[kunsthalle]]></category>
+
+		<guid isPermaLink="false">http://www.jump-around.eu/?p=371</guid>
+				<description><![CDATA[Chris and Melanie finally came over to visit me in Hamburg. Of course we had to visit the Kunsthalle, and of course we had to jump!]]></description>
+								<content:encoded><![CDATA[<p>Chris and Melanie finally came over to visit me in Hamburg. Of course we had to visit the Kunsthalle, and of course we had to jump!</p>
+]]></content:encoded>
+							<wfw:commentRss>http://www.jump-around.eu/2009/02/28/chris-jump-in-front-of-art/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<georss:point>53.5550003 10.0024004</georss:point><post-id xmlns="com-wordpress:feed-additions:1">371</post-id>	</item>
+	</channel>
+</rss>

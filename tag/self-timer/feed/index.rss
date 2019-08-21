@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>self-timer &#8211; Jump-Around.eu</title>
+	<atom:link href="http://www.jump-around.eu/tag/self-timer/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.jump-around.eu</link>
+	<description>Jumping Pictures Worldwide</description>
+	<lastBuildDate>Wed, 30 Jun 2010 12:06:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.2</generator>
+<site xmlns="com-wordpress:feed-additions:1">6142598</site>	<item>
+		<title>Esa Christmas Party</title>
+		<link>http://www.jump-around.eu/2007/12/13/esa-christmas-party/</link>
+				<comments>http://www.jump-around.eu/2007/12/13/esa-christmas-party/#respond</comments>
+				<pubDate>Thu, 13 Dec 2007 21:14:27 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Jumps]]></category>
+		<category><![CDATA[Chris]]></category>
+		<category><![CDATA[christmas]]></category>
+		<category><![CDATA[esa]]></category>
+		<category><![CDATA[self-timer]]></category>
+		<category><![CDATA[Tobi]]></category>
+
+		<guid isPermaLink="false">http://www.jump-around.eu/?p=282</guid>
+				<description><![CDATA[On our Christmas party we convinced our flatmates after some bottles of wine to do a synchronous jump. And it worked out: What a timing, we are all in the air at the same time! Well, at least most of us &#8211; Eva 🙂]]></description>
+								<content:encoded><![CDATA[<p>On our Christmas party we convinced our flatmates after some bottles of wine to do a synchronous jump. And it worked out: What a timing, we are all in the air at the same time! Well, at least most of us &#8211; Eva <img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+							<wfw:commentRss>http://www.jump-around.eu/2007/12/13/esa-christmas-party/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<georss:point>49.4214706 7.7561760</georss:point><post-id xmlns="com-wordpress:feed-additions:1">282</post-id>	</item>
+		<item>
+		<title>Last Cornwall Jumps</title>
+		<link>http://www.jump-around.eu/2007/10/14/last-cornwall-jumps/</link>
+				<comments>http://www.jump-around.eu/2007/10/14/last-cornwall-jumps/#respond</comments>
+				<pubDate>Sun, 14 Oct 2007 00:21:43 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Jumps]]></category>
+		<category><![CDATA[Chris]]></category>
+		<category><![CDATA[Melanie]]></category>
+		<category><![CDATA[self-timer]]></category>
+
+		<guid isPermaLink="false">http://www.jump-around.eu/?p=264</guid>
+				<description><![CDATA[These were our last minutes in Cornwall, right before our 2 day lasting journey back home to Kaiserslautern. Maybe you might classify these pictures as outtakes, but please consider that they were shot using the self-timer. By the way Melanie, I think this is a good place to tell you: I love you for joining [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>These were our last minutes in Cornwall, right before our 2 day lasting journey back home to Kaiserslautern. Maybe you might classify these pictures as outtakes, but please consider that they were shot using the self-timer. By the way Melanie, I think this is a good place to tell you: I love you for joining me on so many crazy missions <img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+							<wfw:commentRss>http://www.jump-around.eu/2007/10/14/last-cornwall-jumps/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<georss:point>50.1223373 -5.4796028</georss:point><post-id xmlns="com-wordpress:feed-additions:1">264</post-id>	</item>
+		<item>
+		<title>toureifel</title>
+		<link>http://www.jump-around.eu/2004/08/04/toureifel/</link>
+				<comments>http://www.jump-around.eu/2004/08/04/toureifel/#respond</comments>
+				<pubDate>Wed, 04 Aug 2004 21:13:58 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Jumps]]></category>
+		<category><![CDATA[Cecile]]></category>
+		<category><![CDATA[Chris]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[self-timer]]></category>
+		<category><![CDATA[Tobi]]></category>
+
+		<guid isPermaLink="false">http://www.jump-around.eu/2004/08/04/toureifel/</guid>
+				<description><![CDATA[I think this is the beginning of our jumping career. Well as you can see these are our first steps with the autotimer of our camera and we are still working on our timing 🙂]]></description>
+								<content:encoded><![CDATA[<p>I think this is the beginning of our jumping career. Well as you can see these are our first steps with the autotimer of our camera and we are still working on our timing <img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+							<wfw:commentRss>http://www.jump-around.eu/2004/08/04/toureifel/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<georss:point>48.8578262 2.2974300</georss:point><post-id xmlns="com-wordpress:feed-additions:1">131</post-id>	</item>
+	</channel>
+</rss>

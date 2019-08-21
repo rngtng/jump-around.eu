@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>baltic sea &#8211; Jump-Around.eu</title>
+	<atom:link href="http://www.jump-around.eu/tag/baltic-sea/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.jump-around.eu</link>
+	<description>Jumping Pictures Worldwide</description>
+	<lastBuildDate>Wed, 30 Jun 2010 13:02:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.2</generator>
+<site xmlns="com-wordpress:feed-additions:1">6142598</site>	<item>
+		<title>Baltic Sea Yoga</title>
+		<link>http://www.jump-around.eu/2009/04/13/balic-sea-joga/</link>
+				<comments>http://www.jump-around.eu/2009/04/13/balic-sea-joga/#respond</comments>
+				<pubDate>Mon, 13 Apr 2009 17:27:36 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Jumps]]></category>
+		<category><![CDATA[baltic sea]]></category>
+		<category><![CDATA[Tobi]]></category>
+		<category><![CDATA[yoga]]></category>
+
+		<guid isPermaLink="false">http://www.jump-around.eu/2019/04/13/balic-sea-joga/</guid>
+				<description><![CDATA[After a 3 day biketour, &#8220;Air Yoga&#8221; at the Beach of the Baltic Sea is the best thing you can do&#8230;]]></description>
+								<content:encoded><![CDATA[<p>After a 3 day biketour, &#8220;Air Yoga&#8221; at the Beach of the Baltic Sea is the best thing you can do&#8230;</p>
+]]></content:encoded>
+							<wfw:commentRss>http://www.jump-around.eu/2009/04/13/balic-sea-joga/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">407</post-id>	</item>
+	</channel>
+</rss>

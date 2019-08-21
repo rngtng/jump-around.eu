@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>munich &#8211; Jump-Around.eu</title>
+	<atom:link href="http://www.jump-around.eu/tag/munich/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.jump-around.eu</link>
+	<description>Jumping Pictures Worldwide</description>
+	<lastBuildDate>Wed, 30 Jun 2010 12:51:16 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.2</generator>
+<site xmlns="com-wordpress:feed-additions:1">6142598</site>	<item>
+		<title>Pinakothek der Moderne in Munich</title>
+		<link>http://www.jump-around.eu/2010/03/14/pinakothek-der-moderne-jump/</link>
+				<comments>http://www.jump-around.eu/2010/03/14/pinakothek-der-moderne-jump/#respond</comments>
+				<pubDate>Sun, 14 Mar 2010 15:34:00 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[BestOf]]></category>
+		<category><![CDATA[Jumps]]></category>
+		<category><![CDATA[munich]]></category>
+		<category><![CDATA[Pinakothek]]></category>
+		<category><![CDATA[Tobi]]></category>
+
+		<guid isPermaLink="false">http://www.jump-around.eu/2020/03/14/pinakothek-der-moderne-jump/</guid>
+				<description><![CDATA[Jumping in Front of (green) Art &#8211; Like other people like to to 😉]]></description>
+								<content:encoded><![CDATA[<p>Jumping in Front of (green) Art &#8211;<a href="http://jumpinginartmuseums.blogspot.com/2010/06/claes-oldenburg-in-germany-jumping.html"> Like other people like to to</a> <img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+							<wfw:commentRss>http://www.jump-around.eu/2010/03/14/pinakothek-der-moderne-jump/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<georss:point>48.1468735 11.5724649</georss:point><post-id xmlns="com-wordpress:feed-additions:1">400</post-id>	</item>
+		<item>
+		<title>Jumpit!</title>
+		<link>http://www.jump-around.eu/2007/01/06/jumpit/</link>
+				<comments>http://www.jump-around.eu/2007/01/06/jumpit/#respond</comments>
+				<pubDate>Sat, 06 Jan 2007 17:40:54 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Jumps]]></category>
+		<category><![CDATA[mainstation]]></category>
+		<category><![CDATA[munich]]></category>
+		<category><![CDATA[Tobi]]></category>
+
+		<guid isPermaLink="false">http://www.jump-around.eu/2007/01/06/jumpit/</guid>
+				<description><![CDATA[]]></description>
+								<content:encoded><![CDATA[]]></content:encoded>
+							<wfw:commentRss>http://www.jump-around.eu/2007/01/06/jumpit/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<georss:point>48.1406479 11.5599556</georss:point><post-id xmlns="com-wordpress:feed-additions:1">159</post-id>	</item>
+	</channel>
+</rss>

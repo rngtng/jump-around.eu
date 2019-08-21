@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>australia &#8211; Jump-Around.eu</title>
+	<atom:link href="http://www.jump-around.eu/tag/australia/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.jump-around.eu</link>
+	<description>Jumping Pictures Worldwide</description>
+	<lastBuildDate>Mon, 16 Feb 2009 13:53:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.2</generator>
+<site xmlns="com-wordpress:feed-additions:1">6142598</site>	<item>
+		<title>WaterJump</title>
+		<link>http://www.jump-around.eu/2006/02/18/waterjump/</link>
+				<comments>http://www.jump-around.eu/2006/02/18/waterjump/#respond</comments>
+				<pubDate>Sat, 18 Feb 2006 02:13:19 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Jumps]]></category>
+		<category><![CDATA[australia]]></category>
+		<category><![CDATA[rainforest]]></category>
+		<category><![CDATA[Tobi]]></category>
+
+		<guid isPermaLink="false">http://www.jump-around.eu/2006/02/18/waterjump/</guid>
+				<description><![CDATA[]]></description>
+								<content:encoded><![CDATA[]]></content:encoded>
+							<wfw:commentRss>http://www.jump-around.eu/2006/02/18/waterjump/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<georss:point>-28.2194061 153.2726593</georss:point><post-id xmlns="com-wordpress:feed-additions:1">160</post-id>	</item>
+		<item>
+		<title>CrossJumping</title>
+		<link>http://www.jump-around.eu/2006/02/12/crossjumping/</link>
+				<comments>http://www.jump-around.eu/2006/02/12/crossjumping/#respond</comments>
+				<pubDate>Sun, 12 Feb 2006 18:24:38 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Jumps]]></category>
+		<category><![CDATA[australia]]></category>
+		<category><![CDATA[Tobi]]></category>
+
+		<guid isPermaLink="false">http://www.jump-around.eu/2006/02/12/crossjumping/</guid>
+				<description><![CDATA[]]></description>
+								<content:encoded><![CDATA[]]></content:encoded>
+							<wfw:commentRss>http://www.jump-around.eu/2006/02/12/crossjumping/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<georss:point>-31.9766541 115.8218002</georss:point><post-id xmlns="com-wordpress:feed-additions:1">156</post-id>	</item>
+		<item>
+		<title>RottJump</title>
+		<link>http://www.jump-around.eu/2006/01/22/rottjump/</link>
+				<comments>http://www.jump-around.eu/2006/01/22/rottjump/#respond</comments>
+				<pubDate>Sun, 22 Jan 2006 09:32:57 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Jumps]]></category>
+		<category><![CDATA[australia]]></category>
+		<category><![CDATA[rottnest]]></category>
+		<category><![CDATA[Tobi]]></category>
+
+		<guid isPermaLink="false">http://www.jump-around.eu/2006/01/22/rottjump/</guid>
+				<description><![CDATA[]]></description>
+								<content:encoded><![CDATA[]]></content:encoded>
+							<wfw:commentRss>http://www.jump-around.eu/2006/01/22/rottjump/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<georss:point>-32.0252495 115.4597855</georss:point><post-id xmlns="com-wordpress:feed-additions:1">161</post-id>	</item>
+		<item>
+		<title>Jump</title>
+		<link>http://www.jump-around.eu/2006/01/14/jump-5/</link>
+				<comments>http://www.jump-around.eu/2006/01/14/jump-5/#respond</comments>
+				<pubDate>Sat, 14 Jan 2006 18:12:57 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Jumps]]></category>
+		<category><![CDATA[australia]]></category>
+		<category><![CDATA[Tobi]]></category>
+
+		<guid isPermaLink="false">http://www.jump-around.eu/2006/01/14/jump-5/</guid>
+				<description><![CDATA[]]></description>
+								<content:encoded><![CDATA[]]></content:encoded>
+							<wfw:commentRss>http://www.jump-around.eu/2006/01/14/jump-5/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<georss:point>-33.6386337 115.1569748</georss:point><post-id xmlns="com-wordpress:feed-additions:1">151</post-id>	</item>
+		<item>
+		<title>Jumping Lancein Beach</title>
+		<link>http://www.jump-around.eu/2005/10/31/jumping-lancein-beach/</link>
+				<comments>http://www.jump-around.eu/2005/10/31/jumping-lancein-beach/#respond</comments>
+				<pubDate>Mon, 31 Oct 2005 12:09:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Jumps]]></category>
+		<category><![CDATA[australia]]></category>
+		<category><![CDATA[Lancelin]]></category>
+		<category><![CDATA[Tobi]]></category>
+
+		<guid isPermaLink="false">http://www.jump-around.eu/2005/10/31/jumplance/</guid>
+				<description><![CDATA[Bernhard took me with his new van on a ride up north of Perth to lancelin. Beaches are even more prettier there and we went surfing. I was amazed and jumped again&#8230;]]></description>
+								<content:encoded><![CDATA[<p>Bernhard took me with his new van on a ride up north of Perth to lancelin. Beaches are even more prettier there and we went surfing. I was amazed and  jumped again&#8230;</p>
+]]></content:encoded>
+							<wfw:commentRss>http://www.jump-around.eu/2005/10/31/jumping-lancein-beach/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<georss:point>-31.0344028 115.3294907</georss:point><post-id xmlns="com-wordpress:feed-additions:1">147</post-id>	</item>
+	</channel>
+</rss>

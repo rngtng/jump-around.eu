@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>herräng &#8211; Jump-Around.eu</title>
+	<atom:link href="http://www.jump-around.eu/tag/herrang/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.jump-around.eu</link>
+	<description>Jumping Pictures Worldwide</description>
+	<lastBuildDate>Wed, 30 Jun 2010 14:22:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.2</generator>
+<site xmlns="com-wordpress:feed-additions:1">6142598</site>	<item>
+		<title>Jumping the Dancebanana</title>
+		<link>http://www.jump-around.eu/2009/07/22/jumping-the-dancebanana/</link>
+				<comments>http://www.jump-around.eu/2009/07/22/jumping-the-dancebanana/#respond</comments>
+				<pubDate>Wed, 22 Jul 2009 21:22:10 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Jumps]]></category>
+		<category><![CDATA[herräng]]></category>
+		<category><![CDATA[sweden]]></category>
+
+		<guid isPermaLink="false">http://www.jump-around.eu/2019/07/22/jumping-the-dancebanana/</guid>
+				<description><![CDATA[jump herräng 2009 , late night with Eva doing the Lindy Hop &#8211; Yeah!]]></description>
+								<content:encoded><![CDATA[<p>jump herräng 2009 , late night with Eva doing the Lindy Hop &#8211; Yeah!</p>
+]]></content:encoded>
+							<wfw:commentRss>http://www.jump-around.eu/2009/07/22/jumping-the-dancebanana/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">404</post-id>	</item>
+		<item>
+		<title>Herräng Beach</title>
+		<link>http://www.jump-around.eu/2009/07/20/herrang-beach-dsc_1696/</link>
+				<comments>http://www.jump-around.eu/2009/07/20/herrang-beach-dsc_1696/#respond</comments>
+				<pubDate>Mon, 20 Jul 2009 18:19:58 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Jumps]]></category>
+		<category><![CDATA[amelie]]></category>
+		<category><![CDATA[eva]]></category>
+		<category><![CDATA[fabian]]></category>
+		<category><![CDATA[herräng]]></category>
+		<category><![CDATA[Tobi]]></category>
+
+		<guid isPermaLink="false">http://www.jump-around.eu/2019/07/20/herrang-beach-dsc_1696/</guid>
+				<description><![CDATA[We had big fun at the beach of Herräng,sweden]]></description>
+								<content:encoded><![CDATA[<p>We had big fun at the beach of Herräng,sweden </p>
+]]></content:encoded>
+							<wfw:commentRss>http://www.jump-around.eu/2009/07/20/herrang-beach-dsc_1696/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">433</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>sebastian &#8211; Jump-Around.eu</title>
+	<atom:link href="http://www.jump-around.eu/tag/sebastian/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.jump-around.eu</link>
+	<description>Jumping Pictures Worldwide</description>
+	<lastBuildDate>Wed, 30 Jun 2010 14:18:56 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.2</generator>
+<site xmlns="com-wordpress:feed-additions:1">6142598</site>	<item>
+		<title>HopIt!</title>
+		<link>http://www.jump-around.eu/2010/06/11/hopit/</link>
+				<comments>http://www.jump-around.eu/2010/06/11/hopit/#respond</comments>
+				<pubDate>Fri, 11 Jun 2010 13:57:21 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Jumps]]></category>
+		<category><![CDATA[hamburg]]></category>
+		<category><![CDATA[hopit]]></category>
+		<category><![CDATA[sebastian]]></category>
+		<category><![CDATA[Tobi]]></category>
+
+		<guid isPermaLink="false">http://www.jump-around.eu/2020/06/11/hopit/</guid>
+				<description><![CDATA[Sebstian writes for www.hopit.de too!]]></description>
+								<content:encoded><![CDATA[<p>Sebstian writes for <a href="http://www.hopit.de">www.hopit.de</a> too!</p>
+]]></content:encoded>
+							<wfw:commentRss>http://www.jump-around.eu/2010/06/11/hopit/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">435</post-id>	</item>
+	</channel>
+</rss>

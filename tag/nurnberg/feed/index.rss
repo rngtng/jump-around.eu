@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>nürnberg &#8211; Jump-Around.eu</title>
+	<atom:link href="http://www.jump-around.eu/tag/nurnberg/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.jump-around.eu</link>
+	<description>Jumping Pictures Worldwide</description>
+	<lastBuildDate>Thu, 05 Feb 2009 14:18:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.2</generator>
+<site xmlns="com-wordpress:feed-additions:1">6142598</site>	<item>
+		<title>Nürnberg &#8211; here we are (again)</title>
+		<link>http://www.jump-around.eu/2007/12/23/nurnberg-here-we-are-again/</link>
+				<comments>http://www.jump-around.eu/2007/12/23/nurnberg-here-we-are-again/#respond</comments>
+				<pubDate>Sun, 23 Dec 2007 16:59:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Jumps]]></category>
+		<category><![CDATA[Chris]]></category>
+		<category><![CDATA[christmas]]></category>
+		<category><![CDATA[Miranda]]></category>
+		<category><![CDATA[nürnberg]]></category>
+		<category><![CDATA[Tobi]]></category>
+
+		<guid isPermaLink="false">http://www.jump-around.eu/2007/12/23/jump-3/</guid>
+				<description><![CDATA[Like last year I&#8217;m back in Nürnberg to visit Christoph and his Family again. This time I took Miranda with me and Christoph has his spanish friends around. We get a small citytour and enjoy the cold icy wintertime.]]></description>
+								<content:encoded><![CDATA[<p>Like last year I&#8217;m back in Nürnberg to visit Christoph and his Family again. This time I took Miranda with me and Christoph has his spanish friends around. We get a small citytour and enjoy the cold icy wintertime.  </p>
+]]></content:encoded>
+							<wfw:commentRss>http://www.jump-around.eu/2007/12/23/nurnberg-here-we-are-again/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<georss:point>49.4587517 11.0783377</georss:point><post-id xmlns="com-wordpress:feed-additions:1">114</post-id>	</item>
+	</channel>
+</rss>
